@@ -1,27 +1,5 @@
 """
-compute_tracker.py (v2 - diagnostic update)
-
-Why your CSV is likely empty: main() still returns early whenever
-find_compute_events() comes back with nothing, and Kalshi's own
-quick-start docs never actually demonstrate discovering markets by
-browsing /events with no filter and keyword-matching titles - every
-official example starts from a KNOWN series_ticker instead. That
-mismatch, not a typo, is the most likely reason nothing gets written.
-(Your extract_price() rewrite is solid, by the way - yes_bid_dollars
-is the correct current field name. The bug is upstream of that.)
-
-Fastest fix (about 2 minutes, no code):
-1. Go to kalshi.com and search "compute" or "B200."
-2. Open the market. The ticker is in the URL - same pattern as Kalshi's
-   own docs example (kalshi.com/markets/kxhighny/... -> ticker is
-   KXHIGHNY). Copy whatever the compute one's ticker actually is.
-3. Paste it into SERIES_TICKER below.
-
-If SERIES_TICKER is set, this script uses it directly (the reliable,
-documented path). If it's left as None, it falls back to the discovery
-approach - but now prints the raw response instead of failing silently,
-so if it's still empty you can see exactly why (wrong param, empty
-array, different key name) instead of guessing.
+compute_tracker.py 
 """
 
 import csv
