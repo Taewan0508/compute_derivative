@@ -36,6 +36,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          touch compute_prices_history.csv
           git add compute_prices_history.csv
           git diff --staged --quiet || git commit -m "chore: auto-update compute price history [skip ci]"
           git push
