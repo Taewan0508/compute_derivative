@@ -38,25 +38,39 @@ def get_markets_for_event(event_ticker):
     return resp.json().get("markets", [])
 
 
+def _to_cents(val):
+    """Convert float, int, or string dollar amount ('0.4200') to integer cents."""
+    if val is None:
+        return None
+    try:
+        val_float = float(val)
+        if val_float <= 0:
+            return None
+        # Convert dollar representation (0.42) to cents (42) if <= 1.0
+        return int(round(val_float * 100)) if val_float <= 1.0 else int(round(val_float))
+    except (ValueError, TypeError):
+        return None
+
+
 def extract_price(market):
     """
-    Extracts price with fallback logic:
-    1. yes_bid
-    2. last_price
-    3. yes_ask
+    Extracts price using Kalshi's v2 fixed-point dollar fields with legacy fallbacks:
+    1. yes_bid_dollars / yes_bid
+    2. last_price_dollars / last_price
+    3. yes_ask_dollars / yes_ask
     """
-    # Check yes_bid
-    price = market.get("yes_bid")
+    # 1. Try yes_bid
+    price = _to_cents(market.get("yes_bid_dollars")) or _to_cents(market.get("yes_bid"))
     source = "yes_bid"
 
-    # Fallback to last_price if yes_bid is None, 0, or missing
-    if price is None or price == 0:
-        price = market.get("last_price")
+    # 2. Fallback to last_price
+    if price is None:
+        price = _to_cents(market.get("last_price_dollars")) or _to_cents(market.get("last_price"))
         source = "last_price"
 
-    # Fallback to yes_ask if last_price is also None/0
-    if price is None or price == 0:
-        price = market.get("yes_ask")
+    # 3. Fallback to yes_ask
+    if price is None:
+        price = _to_cents(market.get("yes_ask_dollars")) or _to_cents(market.get("yes_ask"))
         source = "yes_ask"
 
     return price, source
@@ -87,8 +101,6 @@ def main():
 
     if not events:
         print("No compute-related events matched by keyword.")
-        print("Check kalshi.com/markets directly for the current GPU series,")
-        print("then query by series_ticker instead - see docs.kalshi.com.")
         return
 
     rows = []
