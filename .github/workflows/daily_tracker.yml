@@ -2,13 +2,11 @@ name: Daily Kalshi Compute Tracker
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
-  # Allows manual triggering from the GitHub Actions tab for testing
   workflow_dispatch:
 
 permissions:
-  contents: write  # Grants permission to commit the updated CSV back to the repo
+  contents: write
 
 jobs:
   track-prices:
@@ -36,7 +34,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add compute_prices_history.csv
-          
-          # Only commit if the CSV actually changed to avoid job failures
           git diff --staged --quiet || git commit -m "chore: auto-update compute price history [skip ci]"
           git push
