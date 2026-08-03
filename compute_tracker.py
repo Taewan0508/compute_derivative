@@ -94,7 +94,7 @@ def main():
                 market.get("yes_bid"),
             ]
             rows.append(row)
-            print(f"{market.get('title')}: {market.get('yes_bid')}c")
+            print(f"RAW MARKET DATA: {market}")
 
     append_snapshot(rows)
     print(f"\nSaved {len(rows)} rows to {OUTPUT_CSV}")
