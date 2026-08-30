@@ -1,0 +1,627 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "H100 SXM",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": 2.61,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:08.128Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:08.128Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": 2.48,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:08.128Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:08.128Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": 2.25,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:08.128Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:08.128Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": 1.78,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:08.128Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:08.128Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": 1.56,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:08.128Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:08.128Z",
+          "insufficient_data": null
+        }
+      ]
+    },
+    {
+      "name": "H200",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": 4.49,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:19.307Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:19.307Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": 4.15,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:19.307Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:19.307Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": 3.6,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:19.307Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:19.307Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": 2.29,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:19.307Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:19.307Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": 1.96,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:39:19.307Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:39:19.307Z",
+          "insufficient_data": null
+        }
+      ]
+    },
+    {
+      "name": "A100 SXM4",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": 1.01,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:45:57.437Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:45:57.437Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": 0.96,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:45:57.437Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:45:57.437Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": 0.94,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:45:57.437Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:45:57.437Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": 0.85,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:45:57.437Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:45:57.437Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": 0.81,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:45:57.437Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:45:57.437Z",
+          "insufficient_data": null
+        }
+      ]
+    },
+    {
+      "name": "RTX 5090",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": 0.54,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-10T22:11:46.117Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-10T22:11:46.117Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": 0.49,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-10T22:11:46.117Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-10T22:11:46.117Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": 0.36,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-10T22:11:46.117Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-10T22:11:46.117Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": 0.32,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-10T22:11:46.117Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-10T22:11:46.117Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": 0.32,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-10T22:11:46.117Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-10T22:11:46.117Z",
+          "insufficient_data": null
+        }
+      ]
+    },
+    {
+      "name": "B200",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": 5.8,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:41:34.496Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:41:34.496Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": 5.75,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:41:34.496Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:41:34.496Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": 5.68,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:41:34.496Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:41:34.496Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": 4.01,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:41:34.496Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:41:34.496Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": 3.12,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:41:34.496Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:41:34.496Z",
+          "insufficient_data": null
+        }
+      ]
+    },
+    {
+      "name": "RTX PRO 6000 WS",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": 1.19,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-07-01T22:14:13.642Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-07-01T22:14:13.642Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": 1.19,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-07-01T22:14:13.642Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-07-01T22:14:13.642Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": 1.1,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-07-01T22:14:13.642Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-07-01T22:14:13.642Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": 1,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-07-01T22:14:13.642Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-07-01T22:14:13.642Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": 0.8,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-07-01T22:14:13.642Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-07-01T22:14:13.642Z",
+          "insufficient_data": null
+        }
+      ]
+    },
+    {
+      "name": "B300",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": 7.45,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:43:39.479Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:43:39.479Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": 6.99,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:43:39.479Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:43:39.479Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": 5.95,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:43:39.479Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:43:39.479Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": 4.13,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:43:39.479Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:43:39.479Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": 3.7,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-13T23:43:39.479Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-13T23:43:39.479Z",
+          "insufficient_data": null
+        }
+      ]
+    },
+    {
+      "name": "GB300",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": 10.23,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-25T02:39:04.063Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-25T02:39:04.063Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": 7.1,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-25T02:39:04.063Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-25T02:39:04.063Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": 5.99,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-25T02:39:04.063Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-25T02:39:04.063Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": 5.02,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-25T02:39:04.063Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-25T02:39:04.063Z",
+          "insufficient_data": null
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": 4.65,
+          "has_mark": true,
+          "provenance": {
+            "source": "hand_entered_mark",
+            "updated_at": "2026-08-25T02:39:04.063Z",
+            "sample_count": null
+          },
+          "as_of_date": "2026-08-25T02:39:04.063Z",
+          "insufficient_data": null
+        }
+      ]
+    }
+  ],
+  "suppressed": [
+    {
+      "name": "GB200",
+      "color": "#FFFFFF",
+      "data": [
+        {
+          "label": "1M",
+          "months": 1,
+          "price": null,
+          "has_mark": false,
+          "provenance": null,
+          "as_of_date": null,
+          "insufficient_data": "no_observation"
+        },
+        {
+          "label": "6M",
+          "months": 6,
+          "price": null,
+          "has_mark": false,
+          "provenance": null,
+          "as_of_date": null,
+          "insufficient_data": "no_observation"
+        },
+        {
+          "label": "1Y",
+          "months": 12,
+          "price": null,
+          "has_mark": false,
+          "provenance": null,
+          "as_of_date": null,
+          "insufficient_data": "no_observation"
+        },
+        {
+          "label": "3Y",
+          "months": 36,
+          "price": null,
+          "has_mark": false,
+          "provenance": null,
+          "as_of_date": null,
+          "insufficient_data": "no_observation"
+        },
+        {
+          "label": "5Y",
+          "months": 60,
+          "price": null,
+          "has_mark": false,
+          "provenance": null,
+          "as_of_date": null,
+          "insufficient_data": "no_observation"
+        }
+      ]
+    }
+  ],
+  "asOf": "2026-08-25T02:39:04.063Z"
+}
