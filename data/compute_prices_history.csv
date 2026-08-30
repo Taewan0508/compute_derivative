@@ -1,0 +1,586 @@
+2026-08-30T15:20:22.621661+00:00,KXH100MAX,KXH100MAX-26DEC31-3.980,Will the H100 SXM compute per hour price be above $3.98 by Dec 31?,16,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MAX,KXH100MAX-26DEC31-3.830,Will the H100 SXM compute per hour price be above $3.83 by Dec 31?,29,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MAX,KXH100MAX-26DEC31-3.680,Will the H100 SXM compute per hour price be above $3.68 by Dec 31?,37,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MAX,KXH100MAX-26DEC31-3.530,Will the H100 SXM compute per hour price be above $3.53 by Dec 31?,47,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MAX,KXH100MAX-26DEC31-3.380,Will the H100 SXM compute per hour price be above $3.38 by Dec 31?,61,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MAX,KXH100MAX-26DEC31-3.230,Will the H100 SXM compute per hour price be above $3.23 by Dec 31?,72,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.480,Will the A100 SXM4 compute per hour price be above $1.48 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.430,Will the A100 SXM4 compute per hour price be above $1.43 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.380,Will the A100 SXM4 compute per hour price be above $1.38 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.330,Will the A100 SXM4 compute per hour price be above $1.33 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.280,Will the A100 SXM4 compute per hour price be above $1.28 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.230,Will the A100 SXM4 compute per hour price be above $1.23 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.180,Will the A100 SXM4 compute per hour price be above $1.18 on Aug 31?,3,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.130,Will the A100 SXM4 compute per hour price be above $1.13 on Aug 31?,4,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.080,Will the A100 SXM4 compute per hour price be above $1.08 on Aug 31?,11,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-1.030,Will the A100 SXM4 compute per hour price be above $1.03 on Aug 31?,53,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.980,Will the A100 SXM4 compute per hour price be above $0.98 on Aug 31?,93,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.930,Will the A100 SXM4 compute per hour price be above $0.93 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.880,Will the A100 SXM4 compute per hour price be above $0.88 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.830,Will the A100 SXM4 compute per hour price be above $0.83 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.780,Will the A100 SXM4 compute per hour price be above $0.78 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.730,Will the A100 SXM4 compute per hour price be above $0.73 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.680,Will the A100 SXM4 compute per hour price be above $0.68 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.630,Will the A100 SXM4 compute per hour price be above $0.63 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.580,Will the A100 SXM4 compute per hour price be above $0.58 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26AUG31-0.530,Will the A100 SXM4 compute per hour price be above $0.53 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.470,Will the A100 SXM4 compute per hour price be above $1.47 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.420,Will the A100 SXM4 compute per hour price be above $1.42 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.370,Will the A100 SXM4 compute per hour price be above $1.37 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.320,Will the A100 SXM4 compute per hour price be above $1.32 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.270,Will the A100 SXM4 compute per hour price be above $1.27 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.220,Will the A100 SXM4 compute per hour price be above $1.22 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.170,Will the A100 SXM4 compute per hour price be above $1.17 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.120,Will the A100 SXM4 compute per hour price be above $1.12 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.070,Will the A100 SXM4 compute per hour price be above $1.07 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-1.020,Will the A100 SXM4 compute per hour price be above $1.02 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.970,Will the A100 SXM4 compute per hour price be above $0.97 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.920,Will the A100 SXM4 compute per hour price be above $0.92 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.870,Will the A100 SXM4 compute per hour price be above $0.87 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.820,Will the A100 SXM4 compute per hour price be above $0.82 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.770,Will the A100 SXM4 compute per hour price be above $0.77 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.720,Will the A100 SXM4 compute per hour price be above $0.72 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.670,Will the A100 SXM4 compute per hour price be above $0.67 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.620,Will the A100 SXM4 compute per hour price be above $0.62 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.570,Will the A100 SXM4 compute per hour price be above $0.57 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26JUL31-0.520,Will the A100 SXM4 compute per hour price be above $0.52 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.150,Will the test compute per hour price be above $1.15 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.140,Will the test compute per hour price be above $1.14 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.130,Will the test compute per hour price be above $1.13 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.120,Will the test compute per hour price be above $1.12 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.110,Will the test compute per hour price be above $1.11 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.100,Will the test compute per hour price be above $1.1 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.090,Will the test compute per hour price be above $1.09 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.080,Will the test compute per hour price be above $1.08 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.070,Will the test compute per hour price be above $1.07 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.060,Will the test compute per hour price be above $1.06 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.050,Will the test compute per hour price be above $1.05 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.040,Will the test compute per hour price be above $1.04 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.030,Will the test compute per hour price be above $1.03 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.020,Will the test compute per hour price be above $1.02 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.010,Will the test compute per hour price be above $1.01 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-1.000,Will the test compute per hour price be above $1 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.990,Will the test compute per hour price be above $0.99 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.980,Will the test compute per hour price be above $0.98 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.970,Will the test compute per hour price be above $0.97 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.960,Will the test compute per hour price be above $0.96 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.950,Will the test compute per hour price be above $0.95 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.940,Will the test compute per hour price be above $0.94 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.930,Will the test compute per hour price be above $0.93 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.920,Will the test compute per hour price be above $0.92 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.910,Will the test compute per hour price be above $0.91 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.900,Will the test compute per hour price be above $0.9 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.890,Will the test compute per hour price be above $0.89 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.880,Will the test compute per hour price be above $0.88 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.870,Will the test compute per hour price be above $0.87 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.860,Will the test compute per hour price be above $0.86 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.850,Will the test compute per hour price be above $0.85 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.840,Will the test compute per hour price be above $0.84 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.830,Will the test compute per hour price be above $0.83 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.820,Will the test compute per hour price be above $0.82 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.810,Will the test compute per hour price be above $0.81 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.800,Will the test compute per hour price be above $0.8 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.790,Will the test compute per hour price be above $0.79 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.780,Will the test compute per hour price be above $0.78 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.770,Will the test compute per hour price be above $0.77 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100MON,KXA100MON-26APR22-0.760,Will the test compute per hour price be above $0.76 on Apr 22?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200Q,KXB200Q-26JUN30-7.070,Will the B200 compute per hour price be above $7.07 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200Q,KXB200Q-26JUN30-6.870,Will the B200 compute per hour price be above $6.87 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200Q,KXB200Q-26JUN30-6.670,Will the B200 compute per hour price be above $6.67 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200Q,KXB200Q-26JUN30-6.470,Will the B200 compute per hour price be above $6.47 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200Q,KXB200Q-26JUN30-6.270,Will the B200 compute per hour price be above $6.27 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-3.620,Will the H200 compute per hour price be above $3.62 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-3.720,Will the H200 compute per hour price be above $3.72 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-3.820,Will the H200 compute per hour price be above $3.82 on Aug 31?,95,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-3.920,Will the H200 compute per hour price be above $3.92 on Aug 31?,94,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.020,Will the H200 compute per hour price be above $4.02 on Aug 31?,87,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.120,Will the H200 compute per hour price be above $4.12 on Aug 31?,83,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.220,Will the H200 compute per hour price be above $4.22 on Aug 31?,34,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.320,Will the H200 compute per hour price be above $4.32 on Aug 31?,26,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.420,Will the H200 compute per hour price be above $4.42 on Aug 31?,48,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.520,Will the H200 compute per hour price be above $4.52 on Aug 31?,10,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-6.520,Will the H200 compute per hour price be above $6.52 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-6.420,Will the H200 compute per hour price be above $6.42 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-6.320,Will the H200 compute per hour price be above $6.32 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-6.220,Will the H200 compute per hour price be above $6.22 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-6.120,Will the H200 compute per hour price be above $6.12 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-6.020,Will the H200 compute per hour price be above $6.02 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.920,Will the H200 compute per hour price be above $5.92 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.820,Will the H200 compute per hour price be above $5.82 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.720,Will the H200 compute per hour price be above $5.72 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.620,Will the H200 compute per hour price be above $5.62 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.520,Will the H200 compute per hour price be above $5.52 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.420,Will the H200 compute per hour price be above $5.42 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.320,Will the H200 compute per hour price be above $5.32 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.220,Will the H200 compute per hour price be above $5.22 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.120,Will the H200 compute per hour price be above $5.12 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-5.020,Will the H200 compute per hour price be above $5.02 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.920,Will the H200 compute per hour price be above $4.92 on Aug 31?,6,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.820,Will the H200 compute per hour price be above $4.82 on Aug 31?,7,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.720,Will the H200 compute per hour price be above $4.72 on Aug 31?,11,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26AUG31-4.620,Will the H200 compute per hour price be above $4.62 on Aug 31?,13,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-7.550,Will the H200 compute per hour price be above $7.55 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-7.450,Will the H200 compute per hour price be above $7.45 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-7.350,Will the H200 compute per hour price be above $7.35 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-7.250,Will the H200 compute per hour price be above $7.25 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-7.150,Will the H200 compute per hour price be above $7.15 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-7.050,Will the H200 compute per hour price be above $7.05 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.950,Will the H200 compute per hour price be above $6.95 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.850,Will the H200 compute per hour price be above $6.85 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.750,Will the H200 compute per hour price be above $6.75 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.650,Will the H200 compute per hour price be above $6.65 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.550,Will the H200 compute per hour price be above $6.55 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.450,Will the H200 compute per hour price be above $6.45 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.350,Will the H200 compute per hour price be above $6.35 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.250,Will the H200 compute per hour price be above $6.25 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.150,Will the H200 compute per hour price be above $6.15 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-6.050,Will the H200 compute per hour price be above $6.05 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.950,Will the H200 compute per hour price be above $5.95 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.850,Will the H200 compute per hour price be above $5.85 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.750,Will the H200 compute per hour price be above $5.75 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.650,Will the H200 compute per hour price be above $5.65 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.550,Will the H200 compute per hour price be above $5.55 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.450,Will the H200 compute per hour price be above $5.45 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.350,Will the H200 compute per hour price be above $5.35 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.250,Will the H200 compute per hour price be above $5.25 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.150,Will the H200 compute per hour price be above $5.15 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-5.050,Will the H200 compute per hour price be above $5.05 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.950,Will the H200 compute per hour price be above $4.95 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.850,Will the H200 compute per hour price be above $4.85 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.750,Will the H200 compute per hour price be above $4.75 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.650,Will the H200 compute per hour price be above $4.65 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.550,Will the H200 compute per hour price be above $4.55 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.450,Will the H200 compute per hour price be above $4.45 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.350,Will the H200 compute per hour price be above $4.35 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.250,Will the H200 compute per hour price be above $4.25 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.150,Will the H200 compute per hour price be above $4.15 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-4.050,Will the H200 compute per hour price be above $4.05 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.950,Will the H200 compute per hour price be above $3.95 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.850,Will the H200 compute per hour price be above $3.85 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.750,Will the H200 compute per hour price be above $3.75 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.650,Will the H200 compute per hour price be above $3.65 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.550,Will the H200 compute per hour price be above $3.55 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.450,Will the H200 compute per hour price be above $3.45 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.350,Will the H200 compute per hour price be above $3.35 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.250,Will the H200 compute per hour price be above $3.25 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.150,Will the H200 compute per hour price be above $3.15 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-3.050,Will the H200 compute per hour price be above $3.05 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-2.950,Will the H200 compute per hour price be above $2.95 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-2.850,Will the H200 compute per hour price be above $2.85 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-2.750,Will the H200 compute per hour price be above $2.75 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH200MON,KXH200MON-26JUL31-2.650,Will the H200 compute per hour price be above $2.65 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100Q,KXH100Q-26JUN30-3.530,Will the H100 SXM compute per hour price be above $3.53 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100Q,KXH100Q-26JUN30-3.430,Will the H100 SXM compute per hour price be above $3.43 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100Q,KXH100Q-26JUN30-3.330,Will the H100 SXM compute per hour price be above $3.33 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100Q,KXH100Q-26JUN30-3.230,Will the H100 SXM compute per hour price be above $3.23 by Jun 30?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26SEP04-2.93,H100 SXM price up in next week?,47,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26AUG28-2.88,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26AUG21-2.79,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26AUG14-2.68,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26AUG07-2.76,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26JUL31-2.73,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26JUL24-2.65,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26JUL17-2.52,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26JUL10-2.64,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26JUL03-2.44,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100W,KXH100W-26JUN26-2.4,H100 SXM price up in next week?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-7.310,Will the B200 compute per hour price be above $7.31 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-7.210,Will the B200 compute per hour price be above $7.21 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-7.110,Will the B200 compute per hour price be above $7.11 on Aug 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-7.010,Will the B200 compute per hour price be above $7.01 on Aug 31?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.910,Will the B200 compute per hour price be above $6.91 on Aug 31?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.810,Will the B200 compute per hour price be above $6.81 on Aug 31?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.710,Will the B200 compute per hour price be above $6.71 on Aug 31?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.610,Will the B200 compute per hour price be above $6.61 on Aug 31?,3,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.510,Will the B200 compute per hour price be above $6.51 on Aug 31?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.410,Will the B200 compute per hour price be above $6.41 on Aug 31?,3,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.310,Will the B200 compute per hour price be above $6.31 on Aug 31?,13,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.210,Will the B200 compute per hour price be above $6.21 on Aug 31?,11,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.110,Will the B200 compute per hour price be above $6.11 on Aug 31?,38,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-6.010,Will the B200 compute per hour price be above $6.01 on Aug 31?,58,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-5.910,Will the B200 compute per hour price be above $5.91 on Aug 31?,75,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-5.810,Will the B200 compute per hour price be above $5.81 on Aug 31?,86,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-5.710,Will the B200 compute per hour price be above $5.71 on Aug 31?,93,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-5.610,Will the B200 compute per hour price be above $5.61 on Aug 31?,97,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-5.510,Will the B200 compute per hour price be above $5.51 on Aug 31?,97,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26AUG31-5.410,Will the B200 compute per hour price be above $5.41 on Aug 31?,97,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-7.360,Will the B200 compute per hour price be above $7.36 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-7.260,Will the B200 compute per hour price be above $7.26 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-7.160,Will the B200 compute per hour price be above $7.16 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-7.060,Will the B200 compute per hour price be above $7.06 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.960,Will the B200 compute per hour price be above $6.96 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.860,Will the B200 compute per hour price be above $6.86 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.760,Will the B200 compute per hour price be above $6.76 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.660,Will the B200 compute per hour price be above $6.66 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.560,Will the B200 compute per hour price be above $6.56 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.460,Will the B200 compute per hour price be above $6.46 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.360,Will the B200 compute per hour price be above $6.36 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.260,Will the B200 compute per hour price be above $6.26 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.160,Will the B200 compute per hour price be above $6.16 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-6.060,Will the B200 compute per hour price be above $6.06 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.960,Will the B200 compute per hour price be above $5.96 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.860,Will the B200 compute per hour price be above $5.86 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.760,Will the B200 compute per hour price be above $5.76 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.660,Will the B200 compute per hour price be above $5.66 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.560,Will the B200 compute per hour price be above $5.56 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.460,Will the B200 compute per hour price be above $5.46 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.360,Will the B200 compute per hour price be above $5.36 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.260,Will the B200 compute per hour price be above $5.26 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.160,Will the B200 compute per hour price be above $5.16 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-5.060,Will the B200 compute per hour price be above $5.06 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.960,Will the B200 compute per hour price be above $4.96 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.860,Will the B200 compute per hour price be above $4.86 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.760,Will the B200 compute per hour price be above $4.76 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.660,Will the B200 compute per hour price be above $4.66 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.560,Will the B200 compute per hour price be above $4.56 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.460,Will the B200 compute per hour price be above $4.46 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.360,Will the B200 compute per hour price be above $4.36 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.260,Will the B200 compute per hour price be above $4.26 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.160,Will the B200 compute per hour price be above $4.16 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-4.060,Will the B200 compute per hour price be above $4.06 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-3.960,Will the B200 compute per hour price be above $3.96 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-3.860,Will the B200 compute per hour price be above $3.86 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-3.760,Will the B200 compute per hour price be above $3.76 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-3.660,Will the B200 compute per hour price be above $3.66 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-3.560,Will the B200 compute per hour price be above $3.56 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXB200MON,KXB200MON-26JUL31-3.460,Will the B200 compute per hour price be above $3.46 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXNVDAA,KXNVDAA-28JANHEAD-56000,Will NVIDIA Corporation report above 56000 total employees in 2027?,11,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXNVDAA,KXNVDAA-28JANHEAD-54000,Will NVIDIA Corporation report above 54000 total employees in 2027?,42,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXNVDAA,KXNVDAA-28JANHEAD-52000,Will NVIDIA Corporation report above 52000 total employees in 2027?,70,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXNVDAA,KXNVDAA-28JANHEAD-50000,Will NVIDIA Corporation report above 50000 total employees in 2027?,80,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXNVDAA,KXNVDAA-28JANHEAD-48000,Will NVIDIA Corporation report above 48000 total employees in 2027?,84,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXNVDAA,KXNVDAA-28JANHEAD-46000,Will NVIDIA Corporation report above 46000 total employees in 2027?,91,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-3.210,Will the H100 SXM compute per hour price be above $3.21 on Aug 31?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-3.160,Will the H100 SXM compute per hour price be above $3.16 on Aug 31?,3,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-3.110,Will the H100 SXM compute per hour price be above $3.11 on Aug 31?,6,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-3.060,Will the H100 SXM compute per hour price be above $3.06 on Aug 31?,19,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-3.010,Will the H100 SXM compute per hour price be above $3.01 on Aug 31?,41,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.960,Will the H100 SXM compute per hour price be above $2.96 on Aug 31?,36,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.910,Will the H100 SXM compute per hour price be above $2.91 on Aug 31?,35,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.860,Will the H100 SXM compute per hour price be above $2.86 on Aug 31?,51,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.810,Will the H100 SXM compute per hour price be above $2.81 on Aug 31?,69,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.760,Will the H100 SXM compute per hour price be above $2.76 on Aug 31?,81,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.710,Will the H100 SXM compute per hour price be above $2.71 on Aug 31?,92,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.660,Will the H100 SXM compute per hour price be above $2.66 on Aug 31?,90,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.610,Will the H100 SXM compute per hour price be above $2.61 on Aug 31?,95,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.560,Will the H100 SXM compute per hour price be above $2.56 on Aug 31?,92,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.510,Will the H100 SXM compute per hour price be above $2.51 on Aug 31?,94,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.460,Will the H100 SXM compute per hour price be above $2.46 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.410,Will the H100 SXM compute per hour price be above $2.41 on Aug 31?,94,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.360,Will the H100 SXM compute per hour price be above $2.36 on Aug 31?,95,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.310,Will the H100 SXM compute per hour price be above $2.31 on Aug 31?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26AUG31-2.260,Will the H100 SXM compute per hour price be above $2.26 on Aug 31?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.910,Will the H100 SXM compute per hour price be above $2.91 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.860,Will the H100 SXM compute per hour price be above $2.86 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.810,Will the H100 SXM compute per hour price be above $2.81 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.760,Will the H100 SXM compute per hour price be above $2.76 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.710,Will the H100 SXM compute per hour price be above $2.71 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.660,Will the H100 SXM compute per hour price be above $2.66 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.610,Will the H100 SXM compute per hour price be above $2.61 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.560,Will the H100 SXM compute per hour price be above $2.56 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.510,Will the H100 SXM compute per hour price be above $2.51 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.460,Will the H100 SXM compute per hour price be above $2.46 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.410,Will the H100 SXM compute per hour price be above $2.41 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.360,Will the H100 SXM compute per hour price be above $2.36 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.310,Will the H100 SXM compute per hour price be above $2.31 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.260,Will the H100 SXM compute per hour price be above $2.26 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.210,Will the H100 SXM compute per hour price be above $2.21 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.160,Will the H100 SXM compute per hour price be above $2.16 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.110,Will the H100 SXM compute per hour price be above $2.11 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.060,Will the H100 SXM compute per hour price be above $2.06 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-2.010,Will the H100 SXM compute per hour price be above $2.01 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100MON,KXH100MON-26JUL31-1.960,Will the H100 SXM compute per hour price be above $1.96 on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Oct 09?,3,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Oct 09?,6,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Oct 09?,11,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Oct 09?,18,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Oct 09?,37,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Oct 09?,57,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Oct 09?,74,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Oct 09?,91,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Oct 09?,95,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Oct 09?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Oct 09?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT09-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Oct 09?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Oct 02?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Oct 02?,5,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Oct 02?,10,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Oct 02?,17,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Oct 02?,33,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Oct 02?,45,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Oct 02?,71,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Oct 02?,91,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Oct 02?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Oct 02?,97,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Oct 02?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26OCT02-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Oct 02?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Sep 25?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Sep 25?,8,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Sep 25?,14,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Sep 25?,27,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Sep 25?,33,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 25?,61,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Sep 25?,82,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Sep 25?,94,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP25-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Sep 18?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Sep 18?,3,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Sep 18?,8,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Sep 18?,26,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Sep 18?,38,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 18?,58,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Sep 18?,81,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Sep 18?,94,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Sep 18?,97,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Sep 18?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Sep 18?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP18-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Sep 18?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Sep 11?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Sep 11?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Sep 11?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Sep 11?,19,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Sep 11?,43,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 11?,58,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Sep 11?,84,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Sep 11?,95,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Sep 11?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Sep 11?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Sep 11?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP11-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Sep 11?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Sep 04?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Sep 04?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Sep 04?,2,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Sep 04?,13,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Sep 04?,42,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 04?,72,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Sep 04?,89,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Sep 04?,97,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Sep 04?,99,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Sep 04?,99,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Sep 04?,99,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26SEP04-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Sep 04?,99,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG28-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG21-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG14-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26AUG07-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL31-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL24-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL17-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL10-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXH100WS,KXH100WS-26JUL03-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Oct 09?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Oct 09?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Oct 09?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Oct 09?,11,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Oct 09?,48,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Oct 09?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Oct 09?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Oct 09?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Oct 09?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT09-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Oct 09?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Oct 02?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Oct 02?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Oct 02?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Oct 02?,7,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Oct 02?,49,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Oct 02?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Oct 02?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Oct 02?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Oct 02?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26OCT02-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Oct 02?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Sep 25?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Sep 25?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Sep 25?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Sep 25?,6,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Sep 25?,54,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP25-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 25?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Sep 18?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Sep 18?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Sep 18?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Sep 18?,4,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Sep 18?,54,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Sep 18?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Sep 18?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Sep 18?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 18?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP18-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 18?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Sep 11?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Sep 11?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Sep 11?,1,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Sep 11?,6,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Sep 11?,61,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Sep 11?,96,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Sep 11?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Sep 11?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 11?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP11-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 11?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Sep 04?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Sep 04?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Sep 04?,13,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Sep 04?,59,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Sep 04?,98,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Sep 04?,99,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Sep 04?,99,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 04?,99,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26SEP04-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 04?,99,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG28-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Aug 28?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG21-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Aug 21?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG14-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Aug 14?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG07-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG07-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG07-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG07-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG07-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG07-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26AUG07-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL31-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL31-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL31-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL31-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL31-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL31-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL31-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL24-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL24-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL24-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL24-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL24-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL24-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL24-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL17-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL17-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL17-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL17-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL17-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL17-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL17-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL10-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL10-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL10-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL10-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL10-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL10-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL10-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL03-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL03-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL03-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL03-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL03-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL03-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 03?,0,yes_bid
+2026-08-30T15:20:22.621661+00:00,KXA100WS,KXA100WS-26JUL03-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 03?,0,yes_bid
