@@ -9,9 +9,11 @@ from dotenv import load_dotenv
 
 from config import (
     BASE_ORNN_URL,
+    ORNN_COMPUTE_BUYERS,
     ORNN_CONNECT_TIMEOUT_SEC,
     ORNN_DAILY_INDEX_ALL,
     ORNN_FORWARD,
+    ORNN_GPU_CURRENT,
     ORNN_GPU_HISTORY_RANGE,
     ORNN_GPU_TYPES,
     ORNN_GPU_VOLATILITY,
@@ -20,7 +22,16 @@ from config import (
     ORNN_HISTORY_LIMIT,
     ORNN_HISTORY_START_DATE,
     ORNN_MAX_RETRIES,
+    ORNN_MEMORY_HISTORY,
+    ORNN_MEMORY_INDEX,
+    ORNN_MEMORY_TYPES,
+    ORNN_MODEL_FRONTIER,
+    ORNN_OTPI,
+    ORNN_POWER_MARKETS,
+    ORNN_POWER_START_DATE,
     ORNN_READ_TIMEOUT_SEC,
+    ORNN_TOKEN_TYPES,
+    ORNN_TOKEN_VOLUME,
     USER_AGENT,
 )
 
@@ -105,6 +116,195 @@ def get_daily_index_all():
 
 def get_forward_curves():
     return ornn_get(ORNN_FORWARD)
+
+
+def get_token_types():
+    data = ornn_get(ORNN_TOKEN_TYPES)
+    return data.get("data", data.get("labs", [])) if data else []
+
+
+def get_memory_types():
+    data = ornn_get(ORNN_MEMORY_TYPES)
+    return data.get("data", data.get("types", [])) if data else []
+
+
+def get_memory_index():
+    return ornn_get(ORNN_MEMORY_INDEX)
+
+
+def get_gpu_current(gpu_name):
+    return ornn_get(ORNN_GPU_CURRENT, path_params={"gpu_name": gpu_name})
+
+
+def get_model_frontier():
+    return ornn_get(ORNN_MODEL_FRONTIER)
+
+
+def get_compute_buyers():
+    return ornn_get(ORNN_COMPUTE_BUYERS)
+
+
+def _extract_rows(data, keys=("data", "history", "markets", "prices")):
+    if not data:
+        return []
+    for key in keys:
+        rows = data.get(key)
+        if isinstance(rows, list):
+            return rows
+    return []
+
+
+def _fetch_chunked_flat(path, start_date, end_date=None, extra_params=None, quiet_not_found=True):
+    end_date = end_date or date.today().isoformat()
+    all_rows = []
+    seen = set()
+
+    for chunk_start, chunk_end in _year_chunks(start_date, end_date):
+        params = {
+            "startDate": chunk_start,
+            "endDate": chunk_end,
+            "limit": ORNN_HISTORY_LIMIT,
+        }
+        if extra_params:
+            params.update(extra_params)
+        data = ornn_get(path, params=params, quiet_not_found=quiet_not_found)
+        for row in _extract_rows(data):
+            ts = (
+                row.get("recorded_at")
+                or row.get("timestamp")
+                or row.get("date")
+                or row.get("settlement_date")
+                or row.get("as_of_date")
+            )
+            lab = row.get("lab") or row.get("lab_name")
+            mem = row.get("memory_type") or row.get("type") or row.get("id")
+            key = (ts, lab, mem, row.get("market"), row.get("region"))
+            if key in seen:
+                continue
+            seen.add(key)
+            all_rows.append(row)
+
+    all_rows.sort(
+        key=lambda r: r.get("recorded_at")
+        or r.get("timestamp")
+        or r.get("date")
+        or r.get("settlement_date")
+        or ""
+    )
+    return all_rows
+
+
+def get_otpi_history(start_date=ORNN_HISTORY_START_DATE, end_date=None, lab=None):
+    extra = {"lab": lab} if lab else None
+    return _fetch_chunked_flat(ORNN_OTPI, start_date, end_date, extra_params=extra)
+
+
+def power_to_rows(response):
+    """Flatten /api/power/markets nested series into one row per market-day."""
+    if not response:
+        return []
+    payload = response.get("data", response)
+    series = payload.get("series", {})
+    rows = []
+    for market, points in series.items():
+        if not isinstance(points, list):
+            continue
+        for point in points:
+            rows.append(
+                {
+                    "market": market,
+                    "date": point.get("d"),
+                    "price": point.get("p"),
+                    "volume_gwh": point.get("g"),
+                    "load_gwh": point.get("l"),
+                    "off_peak_price": point.get("o"),
+                    "traded_gwh": point.get("t"),
+                    "from": payload.get("from"),
+                    "to": payload.get("to"),
+                    "generated": payload.get("generated"),
+                }
+            )
+    return rows
+
+
+def get_power_markets_history(start_date=ORNN_POWER_START_DATE, end_date=None):
+    end_date = end_date or date.today().isoformat()
+    all_rows = []
+    seen = set()
+
+    for chunk_start, chunk_end in _year_chunks(start_date, end_date):
+        data = ornn_get(
+            ORNN_POWER_MARKETS,
+            params={"startDate": chunk_start, "endDate": chunk_end},
+            quiet_not_found=True,
+        )
+        for row in power_to_rows(data):
+            key = (row.get("market"), row.get("date"))
+            if key in seen:
+                continue
+            seen.add(key)
+            all_rows.append(row)
+
+    all_rows.sort(key=lambda r: (r.get("market") or "", r.get("date") or ""))
+    return all_rows
+
+
+def get_memory_history(memory_type, start_date=ORNN_HISTORY_START_DATE, end_date=None):
+    end_date = end_date or date.today().isoformat()
+    all_rows = []
+    seen = set()
+
+    for chunk_start, chunk_end in _year_chunks(start_date, end_date):
+        params = {
+            "startDate": chunk_start,
+            "endDate": chunk_end,
+            "limit": ORNN_HISTORY_LIMIT,
+        }
+        data = ornn_get(
+            ORNN_MEMORY_HISTORY,
+            params=params,
+            path_params={"memory_type": memory_type},
+            quiet_not_found=True,
+        )
+        for row in _extract_rows(data):
+            ts = row.get("recorded_at") or row.get("timestamp") or row.get("date")
+            if ts in seen:
+                continue
+            seen.add(ts)
+            all_rows.append(row)
+
+    all_rows.sort(key=lambda r: r.get("recorded_at") or r.get("timestamp") or r.get("date") or "")
+    return all_rows
+
+
+def get_token_volume(start_date, end_date):
+    data = ornn_get(
+        ORNN_TOKEN_VOLUME,
+        params={"startDate": start_date, "endDate": end_date},
+        quiet_not_found=True,
+    )
+    return _extract_rows(data)
+
+
+def memory_index_to_rows(response):
+    if not response:
+        return []
+    rows = _extract_rows(response)
+    if rows:
+        return rows
+    # single-object response
+    if isinstance(response.get("data"), dict):
+        return [response["data"]]
+    return []
+
+
+def labeled_rows(records, label_name, label_value):
+    rows = []
+    for r in records:
+        row = dict(r)
+        row[label_name] = label_value
+        rows.append(row)
+    return rows
 
 
 def daily_index_to_rows(response):

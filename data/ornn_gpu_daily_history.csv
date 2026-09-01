@@ -339,6 +339,8 @@ recorded_at,exact_timestamp,index_value,data_type,daily_stats,gpu_name
 2026-08-27T00:00:00.000Z,2026-08-27T20:00:00.000Z,6.0342,daily,"{'min_index': 5.9663, 'max_index': 6.0986, 'std_dev': 0.0343, 'samples_count': 24}",B200
 2026-08-28T00:00:00.000Z,2026-08-28T20:00:00.000Z,6.0146,daily,"{'min_index': 5.9713, 'max_index': 6.0934, 'std_dev': 0.0439, 'samples_count': 24}",B200
 2026-08-29T00:00:00.000Z,2026-08-29T20:00:00.000Z,6.0646,daily,"{'min_index': 6.0184, 'max_index': 6.1001, 'std_dev': 0.0237, 'samples_count': 24}",B200
+2026-08-30T00:00:00.000Z,2026-08-30T20:00:00.000Z,6.0504,daily,"{'min_index': 6.0038, 'max_index': 6.1209, 'std_dev': 0.0273, 'samples_count': 24}",B200
+2026-08-31T00:00:00.000Z,2026-08-31T20:00:00.000Z,6.0696,daily,"{'min_index': 6.0493, 'max_index': 6.4615, 'std_dev': 0.0798, 'samples_count': 24}",B200
 2024-06-23T00:00:00.000Z,2024-06-23T20:00:00.000Z,3.15,daily,"{'min_index': 2.9591, 'max_index': 3.1541, 'std_dev': 0.06, 'samples_count': 9}",H100 SXM
 2024-06-24T00:00:00.000Z,2024-06-24T20:00:00.000Z,3.1101,daily,"{'min_index': 3.0463, 'max_index': 3.1536, 'std_dev': 0.0443, 'samples_count': 24}",H100 SXM
 2024-06-25T00:00:00.000Z,2024-06-25T20:00:00.000Z,3.1313,daily,"{'min_index': 3.0056, 'max_index': 3.1539, 'std_dev': 0.0378, 'samples_count': 24}",H100 SXM
@@ -1135,6 +1137,8 @@ recorded_at,exact_timestamp,index_value,data_type,daily_stats,gpu_name
 2026-08-27T00:00:00.000Z,2026-08-27T20:00:00.000Z,2.76,daily,"{'min_index': 2.5881, 'max_index': 3.0732, 'std_dev': 0.1231, 'samples_count': 24}",H100 SXM
 2026-08-28T00:00:00.000Z,2026-08-28T20:00:00.000Z,2.9342,daily,"{'min_index': 2.7223, 'max_index': 3.2071, 'std_dev': 0.1264, 'samples_count': 24}",H100 SXM
 2026-08-29T00:00:00.000Z,2026-08-29T20:00:00.000Z,2.8729,daily,"{'min_index': 2.733, 'max_index': 3.0989, 'std_dev': 0.1108, 'samples_count': 24}",H100 SXM
+2026-08-30T00:00:00.000Z,2026-08-30T20:00:00.000Z,3.0083,daily,"{'min_index': 2.7952, 'max_index': 3.2124, 'std_dev': 0.1159, 'samples_count': 24}",H100 SXM
+2026-08-31T00:00:00.000Z,2026-08-31T20:00:00.000Z,2.9704,daily,"{'min_index': 2.6695, 'max_index': 3.1534, 'std_dev': 0.1388, 'samples_count': 24}",H100 SXM
 2025-01-23T00:00:00.000Z,2025-01-23T21:00:00.000Z,3.5823,daily,"{'min_index': 3.5651, 'max_index': 3.5836, 'std_dev': 0.0051, 'samples_count': 8}",H200
 2025-01-24T00:00:00.000Z,2025-01-24T21:00:00.000Z,3.6361,daily,"{'min_index': 3.5656, 'max_index': 3.7681, 'std_dev': 0.0485, 'samples_count': 24}",H200
 2025-01-25T00:00:00.000Z,2025-01-25T21:00:00.000Z,3.6623,daily,"{'min_index': 3.6461, 'max_index': 3.6642, 'std_dev': 0.0055, 'samples_count': 24}",H200
@@ -1718,6 +1722,8 @@ recorded_at,exact_timestamp,index_value,data_type,daily_stats,gpu_name
 2026-08-27T00:00:00.000Z,2026-08-27T20:00:00.000Z,4.2904,daily,"{'min_index': 4.0682, 'max_index': 4.4377, 'std_dev': 0.1075, 'samples_count': 24}",H200
 2026-08-28T00:00:00.000Z,2026-08-28T20:00:00.000Z,4.4879,daily,"{'min_index': 4.2705, 'max_index': 4.8439, 'std_dev': 0.1836, 'samples_count': 24}",H200
 2026-08-29T00:00:00.000Z,2026-08-29T20:00:00.000Z,4.4379,daily,"{'min_index': 4.2536, 'max_index': 4.7064, 'std_dev': 0.0983, 'samples_count': 24}",H200
+2026-08-30T00:00:00.000Z,2026-08-30T20:00:00.000Z,4.4992,daily,"{'min_index': 4.2918, 'max_index': 4.6726, 'std_dev': 0.0993, 'samples_count': 24}",H200
+2026-08-31T00:00:00.000Z,2026-08-31T20:00:00.000Z,4.4212,daily,"{'min_index': 4.2569, 'max_index': 4.608, 'std_dev': 0.1093, 'samples_count': 24}",H200
 2024-01-01T00:00:00.000Z,2024-01-01T21:00:00.000Z,1.6547,daily,"{'min_index': 1.6365, 'max_index': 1.7032, 'std_dev': 0.0237, 'samples_count': 24}",A100 SXM4
 2024-01-02T00:00:00.000Z,2024-01-02T21:00:00.000Z,1.6767,daily,"{'min_index': 1.64, 'max_index': 1.7104, 'std_dev': 0.0182, 'samples_count': 24}",A100 SXM4
 2024-01-03T00:00:00.000Z,2024-01-03T21:00:00.000Z,1.6817,daily,"{'min_index': 1.6379, 'max_index': 1.7224, 'std_dev': 0.0203, 'samples_count': 24}",A100 SXM4
@@ -2688,6 +2694,8 @@ recorded_at,exact_timestamp,index_value,data_type,daily_stats,gpu_name
 2026-08-27T00:00:00.000Z,2026-08-27T20:00:00.000Z,1.0642,daily,"{'min_index': 1.0532, 'max_index': 1.0826, 'std_dev': 0.0075, 'samples_count': 24}",A100 SXM4
 2026-08-28T00:00:00.000Z,2026-08-28T20:00:00.000Z,1.2121,daily,"{'min_index': 1.0204, 'max_index': 1.2763, 'std_dev': 0.0628, 'samples_count': 24}",A100 SXM4
 2026-08-29T00:00:00.000Z,2026-08-29T20:00:00.000Z,1.0317,daily,"{'min_index': 1.0087, 'max_index': 1.0419, 'std_dev': 0.0077, 'samples_count': 24}",A100 SXM4
+2026-08-30T00:00:00.000Z,2026-08-30T20:00:00.000Z,1.0325,daily,"{'min_index': 1.0083, 'max_index': 1.0512, 'std_dev': 0.0104, 'samples_count': 24}",A100 SXM4
+2026-08-31T00:00:00.000Z,2026-08-31T20:00:00.000Z,1.0167,daily,"{'min_index': 0.9854, 'max_index': 1.0563, 'std_dev': 0.0208, 'samples_count': 24}",A100 SXM4
 2025-02-23T00:00:00.000Z,2025-02-23T21:00:00.000Z,1.2017,daily,"{'min_index': 0.8754, 'max_index': 1.3201, 'std_dev': 0.1266, 'samples_count': 9}",RTX 5090
 2025-02-24T00:00:00.000Z,2025-02-24T21:00:00.000Z,1.0074,daily,"{'min_index': 0.8896, 'max_index': 1.1122, 'std_dev': 0.0707, 'samples_count': 24}",RTX 5090
 2025-02-25T00:00:00.000Z,2025-02-25T21:00:00.000Z,0.9712,daily,"{'min_index': 0.9155, 'max_index': 1.0291, 'std_dev': 0.0302, 'samples_count': 24}",RTX 5090
@@ -3240,6 +3248,8 @@ recorded_at,exact_timestamp,index_value,data_type,daily_stats,gpu_name
 2026-08-27T00:00:00.000Z,2026-08-27T20:00:00.000Z,0.5308,daily,"{'min_index': 0.5298, 'max_index': 0.5354, 'std_dev': 0.0015, 'samples_count': 24}",RTX 5090
 2026-08-28T00:00:00.000Z,2026-08-28T20:00:00.000Z,0.5337,daily,"{'min_index': 0.5309, 'max_index': 0.5382, 'std_dev': 0.0019, 'samples_count': 24}",RTX 5090
 2026-08-29T00:00:00.000Z,2026-08-29T20:00:00.000Z,0.5304,daily,"{'min_index': 0.5248, 'max_index': 0.536, 'std_dev': 0.0032, 'samples_count': 24}",RTX 5090
+2026-08-30T00:00:00.000Z,2026-08-30T20:00:00.000Z,0.5333,daily,"{'min_index': 0.53, 'max_index': 0.5373, 'std_dev': 0.0017, 'samples_count': 24}",RTX 5090
+2026-08-31T00:00:00.000Z,2026-08-31T20:00:00.000Z,0.5363,daily,"{'min_index': 0.5331, 'max_index': 0.619, 'std_dev': 0.0168, 'samples_count': 24}",RTX 5090
 2025-09-16T00:00:00.000Z,2025-09-16T20:00:00.000Z,1.0649,daily,"{'min_index': 1.0275, 'max_index': 1.0769, 'std_dev': 0.0178, 'samples_count': 9}",RTX PRO 6000 WS
 2025-09-17T00:00:00.000Z,2025-09-17T20:00:00.000Z,1.0435,daily,"{'min_index': 1.0321, 'max_index': 1.067, 'std_dev': 0.0071, 'samples_count': 24}",RTX PRO 6000 WS
 2025-09-18T00:00:00.000Z,2025-09-18T20:00:00.000Z,1.0415,daily,"{'min_index': 1.0257, 'max_index': 1.0541, 'std_dev': 0.0072, 'samples_count': 24}",RTX PRO 6000 WS
@@ -3587,3 +3597,5 @@ recorded_at,exact_timestamp,index_value,data_type,daily_stats,gpu_name
 2026-08-27T00:00:00.000Z,2026-08-27T20:00:00.000Z,1.3104,daily,"{'min_index': 1.2865, 'max_index': 1.3563, 'std_dev': 0.0179, 'samples_count': 24}",RTX PRO 6000 WS
 2026-08-28T00:00:00.000Z,2026-08-28T20:00:00.000Z,1.3037,daily,"{'min_index': 1.2672, 'max_index': 1.3649, 'std_dev': 0.0308, 'samples_count': 24}",RTX PRO 6000 WS
 2026-08-29T00:00:00.000Z,2026-08-29T20:00:00.000Z,1.2975,daily,"{'min_index': 1.2759, 'max_index': 1.3207, 'std_dev': 0.0126, 'samples_count': 24}",RTX PRO 6000 WS
+2026-08-30T00:00:00.000Z,2026-08-30T20:00:00.000Z,1.3021,daily,"{'min_index': 1.2855, 'max_index': 1.324, 'std_dev': 0.0119, 'samples_count': 24}",RTX PRO 6000 WS
+2026-08-31T00:00:00.000Z,2026-08-31T20:00:00.000Z,1.3279,daily,"{'min_index': 1.3194, 'max_index': 1.3654, 'std_dev': 0.0096, 'samples_count': 24}",RTX PRO 6000 WS

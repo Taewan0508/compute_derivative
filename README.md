@@ -24,6 +24,10 @@ Kalshi lists event contracts on GPU compute prices (e.g. “Will B200 be above $
 - `ornn_gpu_volatility.csv` — rolling volatility
 - `ornn_gpu_volume_metrics.csv` — utilization ratios
 - `ornn_forward_curves.csv` / `.json` — forward curve by tenor
+- `ornn_otpi_history.csv` — token price index (all labs)
+- `ornn_memory_index.csv` / `ornn_memory_history.csv` — memory component prices
+- `ornn_power_markets.csv` — US wholesale power (daily, back to ~2017)
+- `ornn_gpu_current.csv`, `ornn_token_types.json`, `ornn_memory_types.json` — snapshots/catalogs
 
 ## Setup
 
@@ -43,6 +47,7 @@ ORNN_API_KEY=sk_prem_...
 
 - **Notebook:** `tracker_testing.ipynb` — explore APIs and write CSVs to `data/`
 - **Kalshi tracker:** `python src/compute_tracker.py` (also runs daily via GitHub Actions)
-- **Ornn backfill:** `python src/ornn_backfill.py` — refresh all Ornn CSVs/JSONs
+- **Ornn backfill:** `python src/ornn_backfill.py` — refresh all Ornn CSVs/JSONs (high + medium + low priority)
+- **Kalshi backfill:** `python src/kalshi_backfill.py` — all active markets, daily candles from each market's open time
 
 Paths are defined in `src/config.py`.
