@@ -5977,3 +5977,1161 @@
 2026-09-04T02:57:39.199978+00:00,KXB200MON,KXB200MON-26JUL31-3.660,Will the B200 compute per hour price be above $3.66 on Jul 31?,0,yes_bid
 2026-09-04T02:57:39.199978+00:00,KXB200MON,KXB200MON-26JUL31-3.560,Will the B200 compute per hour price be above $3.56 on Jul 31?,0,yes_bid
 2026-09-04T02:57:39.199978+00:00,KXB200MON,KXB200MON-26JUL31-3.460,Will the B200 compute per hour price be above $3.46 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-2.140,Will the A100 SXM4 compute per hour price be above $2.14 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-2.040,Will the A100 SXM4 compute per hour price be above $2.04 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-1.940,Will the A100 SXM4 compute per hour price be above $1.94 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-1.840,Will the A100 SXM4 compute per hour price be above $1.84 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-1.740,Will the A100 SXM4 compute per hour price be above $1.74 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-1.640,Will the A100 SXM4 compute per hour price be above $1.64 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-1.540,Will the A100 SXM4 compute per hour price be above $1.54 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-1.440,Will the A100 SXM4 compute per hour price be above $1.44 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100Q,KXA100Q-26JUN30-1.340,Will the A100 SXM4 compute per hour price be above $1.34 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MAX,KXH100MAX-26DEC31-3.980,Will the H100 SXM compute per hour price be above $3.98 by Dec 31?,16,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MAX,KXH100MAX-26DEC31-3.830,Will the H100 SXM compute per hour price be above $3.83 by Dec 31?,27,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MAX,KXH100MAX-26DEC31-3.680,Will the H100 SXM compute per hour price be above $3.68 by Dec 31?,36,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MAX,KXH100MAX-26DEC31-3.530,Will the H100 SXM compute per hour price be above $3.53 by Dec 31?,40,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MAX,KXH100MAX-26DEC31-3.380,Will the H100 SXM compute per hour price be above $3.38 by Dec 31?,55,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MAX,KXH100MAX-26DEC31-3.230,Will the H100 SXM compute per hour price be above $3.23 by Dec 31?,69,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-5.790,Will the H200 compute per hour price be above $5.79 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-5.590,Will the H200 compute per hour price be above $5.59 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-5.390,Will the H200 compute per hour price be above $5.39 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-5.190,Will the H200 compute per hour price be above $5.19 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-4.990,Will the H200 compute per hour price be above $4.99 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-4.790,Will the H200 compute per hour price be above $4.79 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-4.590,Will the H200 compute per hour price be above $4.59 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-4.390,Will the H200 compute per hour price be above $4.39 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-4.190,Will the H200 compute per hour price be above $4.19 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-3.990,Will the H200 compute per hour price be above $3.99 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-3.790,Will the H200 compute per hour price be above $3.79 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-3.590,Will the H200 compute per hour price be above $3.59 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-3.390,Will the H200 compute per hour price be above $3.39 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-3.190,Will the H200 compute per hour price be above $3.19 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-2.990,Will the H200 compute per hour price be above $2.99 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-2.790,Will the H200 compute per hour price be above $2.79 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-2.590,Will the H200 compute per hour price be above $2.59 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-2.390,Will the H200 compute per hour price be above $2.39 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-2.190,Will the H200 compute per hour price be above $2.19 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200Q,KXH200Q-26JUN30-1.990,Will the H200 compute per hour price be above $1.99 by Jun 30?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26SEP04-1.21,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26AUG28-1.07,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26AUG21-1.04,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26AUG14-1.03,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26AUG07-1.03,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26JUL31-1.06,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26JUL24-1.02,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26JUL17-1.01,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26JUL10-1.02,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100W,KXA100W-26JUL03-1.03,A100 SXM4 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT09-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Oct 02?,1,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Oct 02?,3,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Oct 02?,8,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Oct 02?,16,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Oct 02?,31,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Oct 02?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Oct 02?,73,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Oct 02?,90,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Oct 02?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26OCT02-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Sep 25?,1,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Sep 25?,2,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Sep 25?,13,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Sep 25?,14,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Sep 25?,31,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 25?,63,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Sep 25?,83,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Sep 25?,89,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Sep 25?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Sep 25?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Sep 25?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP25-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Sep 25?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Sep 18?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Sep 18?,1,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Sep 18?,5,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Sep 18?,22,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Sep 18?,47,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 18?,63,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Sep 18?,86,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Sep 18?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Sep 18?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Sep 18?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Sep 18?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP18-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Sep 18?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Sep 11?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Sep 11?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Sep 11?,1,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Sep 11?,10,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Sep 11?,34,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 11?,71,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Sep 11?,85,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Sep 11?,89,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Sep 11?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP11-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26SEP04-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG28-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG21-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-1.750,Will the NVIDIA H100 compute per hour price be above $1.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-1.250,Will the NVIDIA H100 compute per hour price be above $1.25 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG14-1.000,Will the NVIDIA H100 compute per hour price be above $1 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26AUG07-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL31-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL24-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL17-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL10-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-4.000,Will the NVIDIA H100 compute per hour price be above $4 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-3.750,Will the NVIDIA H100 compute per hour price be above $3.75 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-3.500,Will the NVIDIA H100 compute per hour price be above $3.5 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-3.250,Will the NVIDIA H100 compute per hour price be above $3.25 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-3.000,Will the NVIDIA H100 compute per hour price be above $3 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-2.750,Will the NVIDIA H100 compute per hour price be above $2.75 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-2.500,Will the NVIDIA H100 compute per hour price be above $2.5 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-2.250,Will the NVIDIA H100 compute per hour price be above $2.25 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100WS,KXH100WS-26JUL03-2.000,Will the NVIDIA H100 compute per hour price be above $2 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200CHINA,KXH200CHINA-27-BEF,Will Nvidia H200 chips being delivered to mainland China be confirmed?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-7.310,Will the B200 compute per hour price be above $7.31 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-7.210,Will the B200 compute per hour price be above $7.21 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-7.110,Will the B200 compute per hour price be above $7.11 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-7.010,Will the B200 compute per hour price be above $7.01 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.910,Will the B200 compute per hour price be above $6.91 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.810,Will the B200 compute per hour price be above $6.81 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.710,Will the B200 compute per hour price be above $6.71 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.610,Will the B200 compute per hour price be above $6.61 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.510,Will the B200 compute per hour price be above $6.51 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.410,Will the B200 compute per hour price be above $6.41 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.310,Will the B200 compute per hour price be above $6.31 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.210,Will the B200 compute per hour price be above $6.21 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.110,Will the B200 compute per hour price be above $6.11 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-6.010,Will the B200 compute per hour price be above $6.01 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-5.910,Will the B200 compute per hour price be above $5.91 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-5.810,Will the B200 compute per hour price be above $5.81 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-5.710,Will the B200 compute per hour price be above $5.71 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-5.610,Will the B200 compute per hour price be above $5.61 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-5.510,Will the B200 compute per hour price be above $5.51 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26AUG31-5.410,Will the B200 compute per hour price be above $5.41 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-7.360,Will the B200 compute per hour price be above $7.36 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-7.260,Will the B200 compute per hour price be above $7.26 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-7.160,Will the B200 compute per hour price be above $7.16 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-7.060,Will the B200 compute per hour price be above $7.06 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.960,Will the B200 compute per hour price be above $6.96 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.860,Will the B200 compute per hour price be above $6.86 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.760,Will the B200 compute per hour price be above $6.76 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.660,Will the B200 compute per hour price be above $6.66 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.560,Will the B200 compute per hour price be above $6.56 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.460,Will the B200 compute per hour price be above $6.46 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.360,Will the B200 compute per hour price be above $6.36 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.260,Will the B200 compute per hour price be above $6.26 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.160,Will the B200 compute per hour price be above $6.16 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-6.060,Will the B200 compute per hour price be above $6.06 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.960,Will the B200 compute per hour price be above $5.96 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.860,Will the B200 compute per hour price be above $5.86 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.760,Will the B200 compute per hour price be above $5.76 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.660,Will the B200 compute per hour price be above $5.66 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.560,Will the B200 compute per hour price be above $5.56 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.460,Will the B200 compute per hour price be above $5.46 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.360,Will the B200 compute per hour price be above $5.36 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.260,Will the B200 compute per hour price be above $5.26 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.160,Will the B200 compute per hour price be above $5.16 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-5.060,Will the B200 compute per hour price be above $5.06 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.960,Will the B200 compute per hour price be above $4.96 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.860,Will the B200 compute per hour price be above $4.86 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.760,Will the B200 compute per hour price be above $4.76 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.660,Will the B200 compute per hour price be above $4.66 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.560,Will the B200 compute per hour price be above $4.56 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.460,Will the B200 compute per hour price be above $4.46 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.360,Will the B200 compute per hour price be above $4.36 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.260,Will the B200 compute per hour price be above $4.26 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.160,Will the B200 compute per hour price be above $4.16 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-4.060,Will the B200 compute per hour price be above $4.06 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-3.960,Will the B200 compute per hour price be above $3.96 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-3.860,Will the B200 compute per hour price be above $3.86 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-3.760,Will the B200 compute per hour price be above $3.76 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-3.660,Will the B200 compute per hour price be above $3.66 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-3.560,Will the B200 compute per hour price be above $3.56 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MON,KXB200MON-26JUL31-3.460,Will the B200 compute per hour price be above $3.46 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in August 2027?,6,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in August 2027?,12,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in August 2027?,19,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in August 2027?,29,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in August 2027?,46,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in August 2027?,64,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-0.600,Will the monthly average compute price of NVIDIA's A100 be above $0.60 in August 2027?,81,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in August 2027?,87,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-0.400,Will the monthly average compute price of NVIDIA's A100 be above $0.40 in August 2027?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27AUG-0.300,Will the monthly average compute price of NVIDIA's A100 be above $0.30 in August 2027?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUL-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in July 2027?,2,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUL-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in July 2027?,9,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUL-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in July 2027?,21,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUL-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in July 2027?,32,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUL-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in July 2027?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUL-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in July 2027?,71,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUL-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in July 2027?,89,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUN-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in June 2027?,2,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUN-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in June 2027?,12,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUN-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in June 2027?,20,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUN-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in June 2027?,30,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUN-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in June 2027?,46,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUN-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in June 2027?,68,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JUN-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in June 2027?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAY-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in May 2027?,1,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAY-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in May 2027?,6,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAY-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in May 2027?,16,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAY-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in May 2027?,25,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAY-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in May 2027?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAY-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in May 2027?,72,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAY-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in May 2027?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27APR-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in April 2027?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27APR-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in April 2027?,7,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27APR-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in April 2027?,15,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27APR-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in April 2027?,28,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27APR-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in April 2027?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27APR-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in April 2027?,75,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27APR-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in April 2027?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAR-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in March 2027?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAR-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in March 2027?,6,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAR-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in March 2027?,13,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAR-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in March 2027?,28,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAR-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in March 2027?,49,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAR-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in March 2027?,74,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27MAR-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in March 2027?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27FEB-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in February 2027?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27FEB-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in February 2027?,2,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27FEB-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in February 2027?,12,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27FEB-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in February 2027?,23,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27FEB-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in February 2027?,46,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27FEB-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in February 2027?,74,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27FEB-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in February 2027?,92,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JAN-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in January 2027?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JAN-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in January 2027?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JAN-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in January 2027?,12,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JAN-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in January 2027?,28,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JAN-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in January 2027?,44,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JAN-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in January 2027?,78,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-27JAN-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in January 2027?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26DEC-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in December 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26DEC-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in December 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26DEC-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in December 2026?,14,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26DEC-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in December 2026?,25,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26DEC-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in December 2026?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26DEC-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in December 2026?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26DEC-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in December 2026?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26NOV-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in November 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26NOV-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in November 2026?,9,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26NOV-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in November 2026?,15,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26NOV-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in November 2026?,20,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26NOV-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in November 2026?,56,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26NOV-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in November 2026?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26NOV-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in November 2026?,97,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26OCT-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in October 2026?,3,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26OCT-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in October 2026?,10,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26OCT-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in October 2026?,10,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26OCT-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in October 2026?,14,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26OCT-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in October 2026?,62,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26OCT-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in October 2026?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26OCT-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in October 2026?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26SEP-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in September 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26SEP-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in September 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26SEP-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in September 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26SEP-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in September 2026?,1,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26SEP-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in September 2026?,73,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26SEP-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in September 2026?,99,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26SEP-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in September 2026?,99,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26AUG-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26AUG-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26AUG-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26AUG-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26AUG-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26AUG-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26AUG-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26JUL-2.000,Will the monthly average compute price of NVIDIA's A100 be above $2.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26JUL-1.750,Will the monthly average compute price of NVIDIA's A100 be above $1.75 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26JUL-1.500,Will the monthly average compute price of NVIDIA's A100 be above $1.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26JUL-1.250,Will the monthly average compute price of NVIDIA's A100 be above $1.25 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26JUL-1.000,Will the monthly average compute price of NVIDIA's A100 be above $1.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26JUL-0.750,Will the monthly average compute price of NVIDIA's A100 be above $0.75 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100MS,KXA100MS-26JUL-0.500,Will the monthly average compute price of NVIDIA's A100 be above $0.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-3.210,Will the H100 SXM compute per hour price be above $3.21 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-3.160,Will the H100 SXM compute per hour price be above $3.16 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-3.110,Will the H100 SXM compute per hour price be above $3.11 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-3.060,Will the H100 SXM compute per hour price be above $3.06 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-3.010,Will the H100 SXM compute per hour price be above $3.01 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.960,Will the H100 SXM compute per hour price be above $2.96 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.910,Will the H100 SXM compute per hour price be above $2.91 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.860,Will the H100 SXM compute per hour price be above $2.86 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.810,Will the H100 SXM compute per hour price be above $2.81 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.760,Will the H100 SXM compute per hour price be above $2.76 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.710,Will the H100 SXM compute per hour price be above $2.71 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.660,Will the H100 SXM compute per hour price be above $2.66 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.610,Will the H100 SXM compute per hour price be above $2.61 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.560,Will the H100 SXM compute per hour price be above $2.56 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.510,Will the H100 SXM compute per hour price be above $2.51 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.460,Will the H100 SXM compute per hour price be above $2.46 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.410,Will the H100 SXM compute per hour price be above $2.41 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.360,Will the H100 SXM compute per hour price be above $2.36 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.310,Will the H100 SXM compute per hour price be above $2.31 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26AUG31-2.260,Will the H100 SXM compute per hour price be above $2.26 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.910,Will the H100 SXM compute per hour price be above $2.91 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.860,Will the H100 SXM compute per hour price be above $2.86 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.810,Will the H100 SXM compute per hour price be above $2.81 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.760,Will the H100 SXM compute per hour price be above $2.76 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.710,Will the H100 SXM compute per hour price be above $2.71 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.660,Will the H100 SXM compute per hour price be above $2.66 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.610,Will the H100 SXM compute per hour price be above $2.61 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.560,Will the H100 SXM compute per hour price be above $2.56 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.510,Will the H100 SXM compute per hour price be above $2.51 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.460,Will the H100 SXM compute per hour price be above $2.46 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.410,Will the H100 SXM compute per hour price be above $2.41 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.360,Will the H100 SXM compute per hour price be above $2.36 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.310,Will the H100 SXM compute per hour price be above $2.31 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.260,Will the H100 SXM compute per hour price be above $2.26 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.210,Will the H100 SXM compute per hour price be above $2.21 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.160,Will the H100 SXM compute per hour price be above $2.16 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.110,Will the H100 SXM compute per hour price be above $2.11 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.060,Will the H100 SXM compute per hour price be above $2.06 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-2.010,Will the H100 SXM compute per hour price be above $2.01 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100MON,KXH100MON-26JUL31-1.960,Will the H100 SXM compute per hour price be above $1.96 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT09-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Oct 02?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Oct 02?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Oct 02?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Oct 02?,3,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Oct 02?,56,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Oct 02?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26OCT02-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Sep 25?,2,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Sep 25?,2,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Sep 25?,4,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Sep 25?,6,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Sep 25?,58,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Sep 25?,90,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Sep 25?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Sep 25?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 25?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP25-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 25?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Sep 18?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Sep 18?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Sep 18?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Sep 18?,3,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Sep 18?,52,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Sep 18?,77,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Sep 18?,84,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Sep 18?,86,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 18?,87,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP18-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 18?,90,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Sep 11?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Sep 11?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Sep 11?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Sep 11?,1,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Sep 11?,70,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Sep 11?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP11-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26SEP04-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG28-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG21-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-0.600,Will the NVIDIA A100 compute per hour price be above $0.6 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-0.400,Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG14-0.300,Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG07-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG07-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG07-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG07-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG07-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG07-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26AUG07-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL31-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL31-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL31-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL31-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL31-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL31-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL31-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL24-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL24-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL24-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL24-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL24-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL24-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL24-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL17-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL17-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL17-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL17-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL17-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL17-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL17-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL10-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL10-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL10-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL10-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL10-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL10-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL10-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL03-2.000,Will the NVIDIA A100 compute per hour price be above $2 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL03-1.750,Will the NVIDIA A100 compute per hour price be above $1.75 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL03-1.500,Will the NVIDIA A100 compute per hour price be above $1.5 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL03-1.250,Will the NVIDIA A100 compute per hour price be above $1.25 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL03-1.000,Will the NVIDIA A100 compute per hour price be above $1 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL03-0.750,Will the NVIDIA A100 compute per hour price be above $0.75 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXA100WS,KXA100WS-26JUL03-0.500,Will the NVIDIA A100 compute per hour price be above $0.5 at 4 PM ET on Jul 03?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT09-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Oct 09?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Oct 02?,8,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Oct 02?,8,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Oct 02?,15,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Oct 02?,26,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Oct 02?,40,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Oct 02?,56,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Oct 02?,72,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Oct 02?,87,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Oct 02?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26OCT02-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Oct 02?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Sep 25?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Sep 25?,1,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Sep 25?,6,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Sep 25?,15,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Sep 25?,31,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Sep 25?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Sep 25?,74,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Sep 25?,90,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Sep 25?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Sep 25?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Sep 25?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Sep 25?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP25-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Sep 25?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Sep 18?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Sep 18?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Sep 18?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Sep 18?,9,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Sep 18?,23,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Sep 18?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Sep 18?,71,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Sep 18?,89,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Sep 18?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Sep 18?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Sep 18?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Sep 18?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP18-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Sep 18?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Sep 11?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Sep 11?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Sep 11?,3,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Sep 11?,6,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Sep 11?,15,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Sep 11?,50,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Sep 11?,85,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Sep 11?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Sep 11?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP11-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Sep 11?,98,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26SEP04-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Sep 04?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-19.000,Will the NVIDIA B200 compute per hour price be above $19 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-18.500,Will the NVIDIA B200 compute per hour price be above $18.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-18.000,Will the NVIDIA B200 compute per hour price be above $18 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-17.500,Will the NVIDIA B200 compute per hour price be above $17.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-17.000,Will the NVIDIA B200 compute per hour price be above $17 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-16.500,Will the NVIDIA B200 compute per hour price be above $16.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-16.000,Will the NVIDIA B200 compute per hour price be above $16 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-15.500,Will the NVIDIA B200 compute per hour price be above $15.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-15.000,Will the NVIDIA B200 compute per hour price be above $15 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-14.500,Will the NVIDIA B200 compute per hour price be above $14.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-14.000,Will the NVIDIA B200 compute per hour price be above $14 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-13.500,Will the NVIDIA B200 compute per hour price be above $13.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-13.000,Will the NVIDIA B200 compute per hour price be above $13 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-12.500,Will the NVIDIA B200 compute per hour price be above $12.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-12.000,Will the NVIDIA B200 compute per hour price be above $12 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-11.500,Will the NVIDIA B200 compute per hour price be above $11.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-11.000,Will the NVIDIA B200 compute per hour price be above $11 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-10.500,Will the NVIDIA B200 compute per hour price be above $10.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-10.000,Will the NVIDIA B200 compute per hour price be above $10 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-9.500,Will the NVIDIA B200 compute per hour price be above $9.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG28-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Aug 28?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG21-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Aug 21?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG14-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Aug 14?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-12.000,Will the NVIDIA B200 compute per hour price be above $12 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-11.500,Will the NVIDIA B200 compute per hour price be above $11.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-11.000,Will the NVIDIA B200 compute per hour price be above $11 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-10.500,Will the NVIDIA B200 compute per hour price be above $10.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-10.000,Will the NVIDIA B200 compute per hour price be above $10 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-9.500,Will the NVIDIA B200 compute per hour price be above $9.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-9.000,Will the NVIDIA B200 compute per hour price be above $9 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-8.500,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-8.000,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-7.500,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-5.75,Will the NVIDIA B200 compute per hour price be above $5.75 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-5.75,Will the NVIDIA B200 compute per hour price be above $5.75 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-7.50,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-7.25,Will the NVIDIA B200 compute per hour price be above $7.25 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-7.25,Will the NVIDIA B200 compute per hour price be above $7.25 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-8.50,Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-8.00,Will the NVIDIA B200 compute per hour price be above $8 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-7.50,Will the NVIDIA B200 compute per hour price be above $7.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26AUG07-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Aug 07?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL31-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL24-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Jul 24?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL17-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Jul 17?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-7.000,Will the NVIDIA B200 compute per hour price be above $7 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-6.500,Will the NVIDIA B200 compute per hour price be above $6.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-6.000,Will the NVIDIA B200 compute per hour price be above $6 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-5.500,Will the NVIDIA B200 compute per hour price be above $5.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-5.000,Will the NVIDIA B200 compute per hour price be above $5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-4.500,Will the NVIDIA B200 compute per hour price be above $4.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-4.000,Will the NVIDIA B200 compute per hour price be above $4 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-3.500,Will the NVIDIA B200 compute per hour price be above $3.5 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200WS,KXB200WS-26JUL10-3.000,Will the NVIDIA B200 compute per hour price be above $3 at 4 PM ET on Jul 10?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26SEP04-2.93,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26AUG28-2.88,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26AUG21-2.79,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26AUG14-2.68,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26AUG07-2.76,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26JUL31-2.73,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26JUL24-2.65,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26JUL17-2.52,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26JUL10-2.64,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH100W,KXH100W-26JUL03-2.44,H100 SXM price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-9.000,Will the monthly average compute price of NVIDIA's B200 be above $9.00 in August 2027?,21,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-8.500,Will the monthly average compute price of NVIDIA's B200 be above $8.50 in August 2027?,25,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-8.000,Will the monthly average compute price of NVIDIA's B200 be above $8.00 in August 2027?,28,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-7.500,Will the monthly average compute price of NVIDIA's B200 be above $7.50 in August 2027?,30,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in August 2027?,33,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in August 2027?,40,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in August 2027?,47,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in August 2027?,53,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in August 2027?,58,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in August 2027?,63,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in August 2027?,68,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-3.500,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in August 2027?,77,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-3.000,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in August 2027?,79,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-2.500,Will the monthly average compute price of NVIDIA's B200 be above $2.50 in August 2027?,83,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27AUG-2.000,Will the monthly average compute price of NVIDIA's B200 be above $2.00 in August 2027?,87,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in July 2027?,37,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in July 2027?,47,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in July 2027?,54,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in July 2027?,60,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in July 2027?,67,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in July 2027?,71,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in July 2027?,75,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-3.500,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in July 2027?,82,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUL-3.000,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in July 2027?,85,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in June 2027?,84,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in June 2027?,82,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in May 2027?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in May 2027?,83,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in April 2027?,86,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in April 2027?,84,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in March 2027?,87,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in March 2027?,83,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in February 2027?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in February 2027?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in January 2027?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in January 2027?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in December 2026?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in December 2026?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in November 2026?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in November 2026?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in October 2026?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in October 2026?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in September 2026?,99,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in September 2026?,99,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-3.50,Will the monthly average compute price of NVIDIA's B200 be above $3.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-3.00,Will the monthly average compute price of NVIDIA's B200 be above $3.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in June 2027?,39,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in June 2027?,44,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in June 2027?,52,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in June 2027?,60,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in June 2027?,65,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in June 2027?,71,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JUN-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in June 2027?,77,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in May 2027?,34,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in May 2027?,42,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in May 2027?,49,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in May 2027?,59,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in May 2027?,65,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in May 2027?,73,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAY-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in May 2027?,79,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in April 2027?,34,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in April 2027?,45,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in April 2027?,52,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in April 2027?,60,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in April 2027?,68,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in April 2027?,76,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27APR-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in April 2027?,78,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in March 2027?,31,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in March 2027?,40,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in March 2027?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in March 2027?,56,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in March 2027?,63,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in March 2027?,67,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27MAR-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in March 2027?,77,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in February 2027?,33,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in February 2027?,39,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in February 2027?,58,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in February 2027?,62,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in February 2027?,72,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in February 2027?,81,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27FEB-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in February 2027?,86,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in January 2027?,43,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in January 2027?,52,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in January 2027?,63,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in January 2027?,76,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in January 2027?,79,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in January 2027?,86,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-27JAN-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in January 2027?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in December 2026?,33,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in December 2026?,52,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in December 2026?,63,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in December 2026?,73,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in December 2026?,83,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in December 2026?,86,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26DEC-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in December 2026?,89,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in November 2026?,35,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in November 2026?,44,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in November 2026?,60,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in November 2026?,72,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in November 2026?,84,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in November 2026?,90,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26NOV-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in November 2026?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in October 2026?,29,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in October 2026?,46,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in October 2026?,64,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in October 2026?,78,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in October 2026?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in October 2026?,92,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26OCT-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in October 2026?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in September 2026?,13,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in September 2026?,37,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in September 2026?,73,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in September 2026?,90,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in September 2026?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in September 2026?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26SEP-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in September 2026?,99,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26AUG-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUL-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-7.000,Will the monthly average compute price of NVIDIA's B200 be above $7.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-6.500,Will the monthly average compute price of NVIDIA's B200 be above $6.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-6.000,Will the monthly average compute price of NVIDIA's B200 be above $6.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-5.500,Will the monthly average compute price of NVIDIA's B200 be above $5.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-5.000,Will the monthly average compute price of NVIDIA's B200 be above $5.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-4.500,Will the monthly average compute price of NVIDIA's B200 be above $4.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200MS,KXB200MS-26JUN-4.000,Will the monthly average compute price of NVIDIA's B200 be above $4.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-8.000,Will the monthly average compute price of NVIDIA's H200 be above $8.00 in August 2027?,28,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-7.500,Will the monthly average compute price of NVIDIA's H200 be above $7.50 in August 2027?,30,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-7.000,Will the monthly average compute price of NVIDIA's H200 be above $7.00 in August 2027?,32,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in August 2027?,34,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in August 2027?,37,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in August 2027?,41,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in August 2027?,44,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in August 2027?,47,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in August 2027?,50,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in August 2027?,55,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in August 2027?,59,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in August 2027?,64,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27AUG-1.000,Will the monthly average compute price of NVIDIA's H200 be above $1.00 in August 2027?,85,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in July 2027?,34,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in July 2027?,36,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in July 2027?,39,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in July 2027?,41,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in July 2027?,47,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in July 2027?,51,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in July 2027?,55,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in July 2027?,61,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUL-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in July 2027?,68,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in June 2027?,32,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in June 2027?,34,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in June 2027?,37,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in June 2027?,40,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in June 2027?,45,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in June 2027?,48,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in June 2027?,53,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in June 2027?,59,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in June 2027?,65,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in June 2027?,70,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JUN-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in June 2027?,78,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in May 2027?,33,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in May 2027?,36,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in May 2027?,39,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in May 2027?,42,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in May 2027?,47,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in May 2027?,52,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in May 2027?,57,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in May 2027?,63,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in May 2027?,68,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in May 2027?,76,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAY-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in May 2027?,82,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in April 2027?,31,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in April 2027?,35,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in April 2027?,38,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in April 2027?,42,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in April 2027?,46,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in April 2027?,50,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in April 2027?,55,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in April 2027?,61,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in April 2027?,67,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in April 2027?,74,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27APR-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in April 2027?,82,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in March 2027?,30,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in March 2027?,34,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in March 2027?,37,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in March 2027?,42,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in March 2027?,45,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in March 2027?,50,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in March 2027?,55,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in March 2027?,63,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in March 2027?,69,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in March 2027?,82,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27MAR-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in March 2027?,84,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in February 2027?,25,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in February 2027?,32,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in February 2027?,36,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in February 2027?,42,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in February 2027?,47,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in February 2027?,54,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in February 2027?,60,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in February 2027?,67,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in February 2027?,73,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in February 2027?,85,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27FEB-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in February 2027?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in January 2027?,23,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in January 2027?,33,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in January 2027?,39,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in January 2027?,43,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in January 2027?,50,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in January 2027?,56,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in January 2027?,64,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in January 2027?,67,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in January 2027?,76,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in January 2027?,85,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-27JAN-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in January 2027?,90,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in December 2026?,33,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in December 2026?,39,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in December 2026?,46,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in December 2026?,53,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in December 2026?,62,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in December 2026?,66,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in December 2026?,72,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in December 2026?,82,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in December 2026?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in December 2026?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26DEC-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in December 2026?,94,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in November 2026?,23,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in November 2026?,32,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in November 2026?,37,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in November 2026?,43,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in November 2026?,54,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in November 2026?,60,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in November 2026?,69,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in November 2026?,82,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in November 2026?,89,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in November 2026?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26NOV-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in November 2026?,91,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in October 2026?,16,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in October 2026?,22,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in October 2026?,30,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in October 2026?,39,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in October 2026?,49,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in October 2026?,62,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in October 2026?,78,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in October 2026?,88,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in October 2026?,93,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in October 2026?,95,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26OCT-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in October 2026?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in September 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in September 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in September 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in September 2026?,22,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in September 2026?,52,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in September 2026?,80,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in September 2026?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in September 2026?,96,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in September 2026?,99,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in September 2026?,99,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26SEP-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in September 2026?,99,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26AUG-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in August 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUL-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in July 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-6.500,Will the monthly average compute price of NVIDIA's H200 be above $6.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-6.000,Will the monthly average compute price of NVIDIA's H200 be above $6.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-5.500,Will the monthly average compute price of NVIDIA's H200 be above $5.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-5.000,Will the monthly average compute price of NVIDIA's H200 be above $5.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-4.500,Will the monthly average compute price of NVIDIA's H200 be above $4.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-4.000,Will the monthly average compute price of NVIDIA's H200 be above $4.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-3.500,Will the monthly average compute price of NVIDIA's H200 be above $3.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-3.000,Will the monthly average compute price of NVIDIA's H200 be above $3.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-2.500,Will the monthly average compute price of NVIDIA's H200 be above $2.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-2.000,Will the monthly average compute price of NVIDIA's H200 be above $2.00 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MS,KXH200MS-26JUN-1.500,Will the monthly average compute price of NVIDIA's H200 be above $1.50 in June 2026?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-3.620,Will the H200 compute per hour price be above $3.62 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-3.720,Will the H200 compute per hour price be above $3.72 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-3.820,Will the H200 compute per hour price be above $3.82 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-3.920,Will the H200 compute per hour price be above $3.92 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.020,Will the H200 compute per hour price be above $4.02 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.120,Will the H200 compute per hour price be above $4.12 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.220,Will the H200 compute per hour price be above $4.22 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.320,Will the H200 compute per hour price be above $4.32 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.420,Will the H200 compute per hour price be above $4.42 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.520,Will the H200 compute per hour price be above $4.52 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-6.520,Will the H200 compute per hour price be above $6.52 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-6.420,Will the H200 compute per hour price be above $6.42 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-6.320,Will the H200 compute per hour price be above $6.32 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-6.220,Will the H200 compute per hour price be above $6.22 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-6.120,Will the H200 compute per hour price be above $6.12 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-6.020,Will the H200 compute per hour price be above $6.02 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.920,Will the H200 compute per hour price be above $5.92 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.820,Will the H200 compute per hour price be above $5.82 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.720,Will the H200 compute per hour price be above $5.72 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.620,Will the H200 compute per hour price be above $5.62 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.520,Will the H200 compute per hour price be above $5.52 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.420,Will the H200 compute per hour price be above $5.42 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.320,Will the H200 compute per hour price be above $5.32 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.220,Will the H200 compute per hour price be above $5.22 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.120,Will the H200 compute per hour price be above $5.12 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-5.020,Will the H200 compute per hour price be above $5.02 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.920,Will the H200 compute per hour price be above $4.92 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.820,Will the H200 compute per hour price be above $4.82 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.720,Will the H200 compute per hour price be above $4.72 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26AUG31-4.620,Will the H200 compute per hour price be above $4.62 on Aug 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-7.550,Will the H200 compute per hour price be above $7.55 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-7.450,Will the H200 compute per hour price be above $7.45 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-7.350,Will the H200 compute per hour price be above $7.35 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-7.250,Will the H200 compute per hour price be above $7.25 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-7.150,Will the H200 compute per hour price be above $7.15 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-7.050,Will the H200 compute per hour price be above $7.05 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.950,Will the H200 compute per hour price be above $6.95 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.850,Will the H200 compute per hour price be above $6.85 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.750,Will the H200 compute per hour price be above $6.75 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.650,Will the H200 compute per hour price be above $6.65 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.550,Will the H200 compute per hour price be above $6.55 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.450,Will the H200 compute per hour price be above $6.45 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.350,Will the H200 compute per hour price be above $6.35 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.250,Will the H200 compute per hour price be above $6.25 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.150,Will the H200 compute per hour price be above $6.15 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-6.050,Will the H200 compute per hour price be above $6.05 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.950,Will the H200 compute per hour price be above $5.95 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.850,Will the H200 compute per hour price be above $5.85 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.750,Will the H200 compute per hour price be above $5.75 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.650,Will the H200 compute per hour price be above $5.65 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.550,Will the H200 compute per hour price be above $5.55 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.450,Will the H200 compute per hour price be above $5.45 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.350,Will the H200 compute per hour price be above $5.35 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.250,Will the H200 compute per hour price be above $5.25 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.150,Will the H200 compute per hour price be above $5.15 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-5.050,Will the H200 compute per hour price be above $5.05 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.950,Will the H200 compute per hour price be above $4.95 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.850,Will the H200 compute per hour price be above $4.85 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.750,Will the H200 compute per hour price be above $4.75 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.650,Will the H200 compute per hour price be above $4.65 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.550,Will the H200 compute per hour price be above $4.55 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.450,Will the H200 compute per hour price be above $4.45 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.350,Will the H200 compute per hour price be above $4.35 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.250,Will the H200 compute per hour price be above $4.25 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.150,Will the H200 compute per hour price be above $4.15 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-4.050,Will the H200 compute per hour price be above $4.05 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.950,Will the H200 compute per hour price be above $3.95 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.850,Will the H200 compute per hour price be above $3.85 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.750,Will the H200 compute per hour price be above $3.75 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.650,Will the H200 compute per hour price be above $3.65 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.550,Will the H200 compute per hour price be above $3.55 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.450,Will the H200 compute per hour price be above $3.45 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.350,Will the H200 compute per hour price be above $3.35 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.250,Will the H200 compute per hour price be above $3.25 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.150,Will the H200 compute per hour price be above $3.15 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-3.050,Will the H200 compute per hour price be above $3.05 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-2.950,Will the H200 compute per hour price be above $2.95 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-2.850,Will the H200 compute per hour price be above $2.85 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-2.750,Will the H200 compute per hour price be above $2.75 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200MON,KXH200MON-26JUL31-2.650,Will the H200 compute per hour price be above $2.65 on Jul 31?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26SEP04-6.01,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26AUG28-6.95,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26AUG21-6,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26AUG14-5.76,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26AUG07-6.41,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26JUL31-6.78,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26JUL24-7.24,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26JUL17-6.69,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26JUL10-5.14,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXB200W,KXB200W-26JUL03-4.5,B200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26SEP04-4.49,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26AUG28-5.09,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26AUG21-4.86,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26AUG14-4.83,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26AUG07-5.62,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26JUL31-4.55,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26JUL24-4.79,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26JUL17-4.27,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26JUL10-4.06,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26JUL03-3.49,H200 price up in next week?,0,yes_bid
+2026-09-05T02:59:20.331232+00:00,KXH200W,KXH200W-26MAR27-2.6263,H200 price up in next week?,0,yes_bid
