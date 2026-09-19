@@ -99,3 +99,6 @@ USER_AGENT = (
 
 def kalshi_url(path: str, **path_params) -> str:
     return BASE_KALSHI_URL + path.format(**path_params)
+
+# Derived output
+COMPUTE_BASIS_CURVE_CSV = DATA_DIR / "compute_basis_curve.csv"
