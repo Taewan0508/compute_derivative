@@ -31,6 +31,46 @@ jobs:
 
       - name: Run compute tracker
         run: python src/compute_tracker.py
+        env:
+          ORNN_API_KEY: ${{ secrets.ORNN_API_KEY }}
+
+      - name: Archive Ornn forwards + recompute basis (if key set)
+        env:
+          ORNN_API_KEY: ${{ secrets.ORNN_API_KEY }}
+        run: |
+          if [ -z "$ORNN_API_KEY" ]; then
+            echo "No ORNN_API_KEY secret; skipping forward archive"
+            exit 0
+          fi
+          python - <<'PY'
+          import sys
+          from pathlib import Path
+          sys.path.insert(0, "src")
+          from ornn_client import get_forward_curves, forward_to_rows, test_ornn_connection
+          from basis import append_forward_history, run as run_basis
+          from config import ORNN_FORWARD_CURVES_CSV, ORNN_FORWARD_CURVES_JSON, ensure_data_dir
+          import json
+          import pandas as pd
+
+          if not test_ornn_connection():
+              print("Ornn unreachable; skipping forward archive")
+              raise SystemExit(0)
+          forward = get_forward_curves()
+          if not forward or not forward.get("success"):
+              print("Forward pull failed; skipping")
+              raise SystemExit(0)
+          rows = forward_to_rows(forward)
+          ensure_data_dir()
+          pd.DataFrame(rows).to_csv(ORNN_FORWARD_CURVES_CSV, index=False)
+          with open(ORNN_FORWARD_CURVES_JSON, "w") as f:
+              json.dump(forward, f, indent=2)
+          append_forward_history(
+              pd.DataFrame(rows).rename(
+                  columns={"price": "forward_price", "as_of_date": "forward_mark_as_of"}
+              )
+          )
+          run_basis(seed_archive=False)
+          PY
 
       - name: Commit and push CSV update
         run: |
@@ -38,6 +78,11 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p data
           touch data/compute_prices_history.csv
-          git add data/compute_prices_history.csv
+          git add data/compute_prices_history.csv \
+                  data/ornn_forward_curves.csv \
+                  data/ornn_forward_curves.json \
+                  data/ornn_forward_curves_history.csv \
+                  data/compute_basis_curve.csv \
+                  data/compute_basis_history.csv || true
           git diff --staged --quiet || git commit -m "chore: auto-update compute price history [skip ci]"
           git push

@@ -68,6 +68,7 @@ ORNN_GPU_VOLATILITY_CSV = DATA_DIR / "ornn_gpu_volatility.csv"
 ORNN_GPU_VOLUME_METRICS_CSV = DATA_DIR / "ornn_gpu_volume_metrics.csv"
 ORNN_FORWARD_CURVES_CSV = DATA_DIR / "ornn_forward_curves.csv"
 ORNN_FORWARD_CURVES_JSON = DATA_DIR / "ornn_forward_curves.json"
+ORNN_FORWARD_CURVES_HISTORY_CSV = DATA_DIR / "ornn_forward_curves_history.csv"
 ORNN_OTPI_HISTORY_CSV = DATA_DIR / "ornn_otpi_history.csv"
 ORNN_MEMORY_INDEX_CSV = DATA_DIR / "ornn_memory_index.csv"
 ORNN_MEMORY_HISTORY_CSV = DATA_DIR / "ornn_memory_history.csv"
@@ -102,3 +103,4 @@ def kalshi_url(path: str, **path_params) -> str:
 
 # Derived output
 COMPUTE_BASIS_CURVE_CSV = DATA_DIR / "compute_basis_curve.csv"
+COMPUTE_BASIS_HISTORY_CSV = DATA_DIR / "compute_basis_history.csv"

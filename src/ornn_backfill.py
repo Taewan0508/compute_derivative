@@ -34,6 +34,7 @@ from config import (  # noqa: E402
     PROJECT_ROOT,
     ensure_data_dir,
 )
+from basis import append_forward_history  # noqa: E402
 from ornn_client import (  # noqa: E402
     daily_index_to_rows,
     forward_to_rows,
@@ -121,8 +122,15 @@ def pull_medium_priority():
     forward = get_forward_curves()
     if not forward or not forward.get("success"):
         raise RuntimeError("Failed to fetch /api/forward")
-    _write_csv(forward_to_rows(forward), ORNN_FORWARD_CURVES_CSV)
+    forward_rows = forward_to_rows(forward)
+    _write_csv(forward_rows, ORNN_FORWARD_CURVES_CSV)
     _write_json(forward, ORNN_FORWARD_CURVES_JSON)
+    # Archive so basis history can accumulate (Ornn has no forward backfill API)
+    append_forward_history(
+        pd.DataFrame(forward_rows).rename(
+            columns={"price": "forward_price", "as_of_date": "forward_mark_as_of"}
+        )
+    )
 
 
 def pull_low_priority():

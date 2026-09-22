@@ -23,7 +23,10 @@ Kalshi lists event contracts on GPU compute prices (e.g. “Will B200 be above $
 - `ornn_daily_index_snapshot.csv` / `.json` — latest settled price per GPU
 - `ornn_gpu_volatility.csv` — rolling volatility
 - `ornn_gpu_volume_metrics.csv` — utilization ratios
-- `ornn_forward_curves.csv` / `.json` — forward curve by tenor
+- `ornn_forward_curves.csv` / `.json` — latest forward curve by tenor
+- `ornn_forward_curves_history.csv` — append-only archive of each forward pull (needed for basis history; Ornn has no forward backfill)
+- `compute_basis_curve.csv` — latest annualized basis \(\ln(F/S)/T\) per GPU×tenor (same-day spot join)
+- `compute_basis_history.csv` — basis time series over archived forward observation dates
 - `ornn_otpi_history.csv` — token price index (all labs)
 - `ornn_memory_index.csv` / `ornn_memory_history.csv` — memory component prices
 - `ornn_power_markets.csv` — US wholesale power (daily, back to ~2017)
@@ -49,5 +52,9 @@ ORNN_API_KEY=sk_prem_...
 - **Kalshi tracker:** `python src/compute_tracker.py` (also runs daily via GitHub Actions)
 - **Ornn backfill:** `python src/ornn_backfill.py` — refresh all Ornn CSVs/JSONs (high + medium + low priority)
 - **Kalshi backfill:** `python src/kalshi_backfill.py` — all active markets, daily candles from each market's open time
+- **Basis:** `python src/basis.py` — join archived forwards to same-day spot; writes `compute_basis_*.csv`
+- **Spot plots:** `python src/plot_spot.py` — writes overlay + per-GPU charts to `data/plots/`
+
+**Basis history note:** Ornn `/api/forward` only returns current published marks (no date-range history). To grow a basis series, archive a forward pull daily (backfill already calls `append_forward_history`), then re-run `basis.py`. Spot already has full daily history.
 
 Paths are defined in `src/config.py`.
