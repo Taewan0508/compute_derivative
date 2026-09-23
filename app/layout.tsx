@@ -7,13 +7,13 @@ const _geistSans = Geist({ subsets: ['latin'], variable: '--font-geist-sans' })
 const _geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono' })
 
 export const metadata: Metadata = {
-  title: 'Derivative — Symbolic Calculator',
+  title: 'Compute Basis Terminal — Ornn × Kalshi',
   description:
-    'Compute symbolic derivatives of mathematical functions and evaluate them at a point.',
+    'Annualized basis between Ornn GPU compute forward marks and spot, alongside Kalshi compute price contracts.',
 }
 
 export const viewport: Viewport = {
-  themeColor: '#f6f7f5',
+  themeColor: '#26241f',
   initialScale: 1,
   width: 'device-width',
 }

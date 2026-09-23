@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "lab": "anthropic",
+      "label": "Anthropic"
+    },
+    {
+      "lab": "openai",
+      "label": "OpenAI"
+    },
+    {
+      "lab": "google",
+      "label": "Google"
+    },
+    {
+      "lab": "deepseek",
+      "label": "DeepSeek"
+    },
+    {
+      "lab": "minimax",
+      "label": "MiniMax"
+    },
+    {
+      "lab": "xiaomi",
+      "label": "Xiaomi"
+    },
+    {
+      "lab": "qwen",
+      "label": "Qwen"
+    },
+    {
+      "lab": "moonshotai",
+      "label": "Moonshot AI"
+    },
+    {
+      "lab": "z-ai",
+      "label": "Z.ai"
+    },
+    {
+      "lab": "mistralai",
+      "label": "Mistral AI"
+    },
+    {
+      "lab": "meta-llama",
+      "label": "Meta Llama"
+    }
+  ]
+}

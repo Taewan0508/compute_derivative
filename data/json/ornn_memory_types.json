@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": "mem_ddr3_4gb",
+      "memory_type": "DDR3 4Gb (512Mx8) 1600/1866",
+      "category": "dram"
+    },
+    {
+      "id": "mem_ddr4_16gb",
+      "memory_type": "DDR4 16Gb (2Gx8) 3200",
+      "category": "dram"
+    },
+    {
+      "id": "mem_ddr4_16gb_ett",
+      "memory_type": "DDR4 16Gb (2Gx8) eTT",
+      "category": "dram"
+    },
+    {
+      "id": "mem_ddr4_8gb",
+      "memory_type": "DDR4 8Gb (1Gx8) 3200",
+      "category": "dram"
+    },
+    {
+      "id": "mem_ddr4_8gb_ett",
+      "memory_type": "DDR4 8Gb (1Gx8) eTT",
+      "category": "dram"
+    },
+    {
+      "id": "mem_ddr5_16gb",
+      "memory_type": "DDR5 16Gb (2Gx8) 4800/5600",
+      "category": "dram"
+    },
+    {
+      "id": "mem_ddr5_16gb_ett",
+      "memory_type": "DDR5 16Gb (2Gx8) eTT",
+      "category": "dram"
+    },
+    {
+      "id": "mem_mlc_32gb",
+      "memory_type": "MLC 32Gb (4Gx8)",
+      "category": "flash"
+    },
+    {
+      "id": "mem_mlc_64gb",
+      "memory_type": "MLC 64Gb (8Gx8)",
+      "category": "flash"
+    },
+    {
+      "id": "mem_slc_1gb",
+      "memory_type": "SLC 1Gb (128Mx8)",
+      "category": "flash"
+    },
+    {
+      "id": "mem_slc_2gb",
+      "memory_type": "SLC 2Gb (256Mx8)",
+      "category": "flash"
+    },
+    {
+      "id": "mem_ddr4_udimm_16gb",
+      "memory_type": "DDR4 UDIMM 16GB 3200",
+      "category": "module"
+    },
+    {
+      "id": "mem_ddr5_rdimm_32gb",
+      "memory_type": "DDR5 RDIMM 32GB 4800/5600",
+      "category": "module"
+    },
+    {
+      "id": "mem_ddr5_udimm_16gb",
+      "memory_type": "DDR5 UDIMM 16GB 4800/5600",
+      "category": "module"
+    }
+  ]
+}
