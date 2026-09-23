@@ -5,7 +5,7 @@ import { Line, LineChart, CartesianGrid, XAxis, YAxis } from 'recharts'
 import { ChartContainer, ChartTooltip, ChartTooltipContent } from '@/components/ui/chart'
 import { cn } from '@/lib/utils'
 import type { SpotPoint } from '@/lib/compute-data'
-import { GPU_ORDER } from '@/lib/compute-data'
+import { GPU_ORDER } from '@/lib/gpu-constants'
 
 const CHART_COLORS = [
   'var(--chart-1)',

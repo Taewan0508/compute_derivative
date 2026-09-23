@@ -1,6 +1,9 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { parseCsv } from './csv'
+import { GPU_ORDER, sortByGpuOrder } from './gpu-constants'
+
+export { GPU_ORDER, sortByGpuOrder }
 
 const DATA_DIR = path.join(process.cwd(), 'data', 'csvs')
 
@@ -158,10 +161,4 @@ export function getActiveKalshiMarkets(): KalshiMarket[] {
       closeTime: row.close_time,
     }))
     .sort((a, b) => b.volume - a.volume)
-}
-
-export const GPU_ORDER = ['B200', 'H200', 'H100 SXM', 'A100 SXM4', 'RTX 5090', 'RTX PRO 6000 WS']
-
-export function sortByGpuOrder<T extends { gpuName: string }>(items: T[]): T[] {
-  return [...items].sort((a, b) => GPU_ORDER.indexOf(a.gpuName) - GPU_ORDER.indexOf(b.gpuName))
 }

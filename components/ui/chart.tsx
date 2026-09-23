@@ -3,13 +3,12 @@
 import * as React from "react"
 import { cn } from "cn"
 import * as RechartsPrimitive from "recharts"
-import type { TooltipValueType } from "recharts"
+import type { NameType, ValueType } from "recharts/types/component/DefaultTooltipContent"
 
 // Format: { THEME_NAME: CSS_SELECTOR }
 const THEMES = { light: "", dark: ".dark" } as const
 
 const INITIAL_DIMENSION = { width: 320, height: 200 } as const
-type TooltipNameType = number | string
 
 export type ChartConfig = Record<
   string,
@@ -136,13 +135,7 @@ function ChartTooltipContent({
     indicator?: "line" | "dot" | "dashed"
     nameKey?: string
     labelKey?: string
-  } & Omit<
-    RechartsPrimitive.DefaultTooltipContentProps<
-      TooltipValueType,
-      TooltipNameType
-    >,
-    "accessibilityLayer"
-  >) {
+  } & Omit<RechartsPrimitive.TooltipProps<ValueType, NameType>, "accessibilityLayer">) {
   const { config } = useChart()
 
   const tooltipLabel = React.useMemo(() => {
@@ -280,7 +273,7 @@ function ChartLegendContent({
 }: React.ComponentProps<"div"> & {
   hideIcon?: boolean
   nameKey?: string
-} & RechartsPrimitive.DefaultLegendContentProps) {
+} & RechartsPrimitive.LegendProps) {
   const { config } = useChart()
 
   if (!payload?.length) {
