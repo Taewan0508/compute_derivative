@@ -1,6 +1,6 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Line, LineChart, CartesianGrid, XAxis, YAxis } from 'recharts'
 import { ChartContainer, ChartTooltip, ChartTooltipContent } from '@/components/ui/chart'
 import { cn } from '@/lib/utils'
@@ -25,6 +25,11 @@ export function SpotHistoryChart({ points }: { points: SpotPoint[] }) {
     [points],
   )
   const [active, setActive] = useState<Set<string>>(new Set(gpuNames))
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => {
+    setMounted(true)
+  }, [])
 
   const config = useMemo(() => {
     const c: Record<string, { label: string; color: string }> = {}
@@ -87,41 +92,45 @@ export function SpotHistoryChart({ points }: { points: SpotPoint[] }) {
           ))}
         </div>
       </div>
-      <ChartContainer config={config} className="h-72 w-full">
-        <LineChart data={chartData} margin={{ left: 4, right: 12, top: 8, bottom: 0 }}>
-          <CartesianGrid vertical={false} stroke="var(--line)" strokeDasharray="3 3" />
-          <XAxis
-            dataKey="date"
-            axisLine={false}
-            tickLine={false}
-            tick={{ fill: 'var(--muted-foreground)', fontSize: 11 }}
-            tickFormatter={(v: string) => v.slice(5)}
-            minTickGap={40}
-          />
-          <YAxis
-            axisLine={false}
-            tickLine={false}
-            width={44}
-            tick={{ fill: 'var(--muted-foreground)', fontSize: 11 }}
-            tickFormatter={(v) => `$${v}`}
-          />
-          <ChartTooltip content={<ChartTooltipContent labelKey="date" />} />
-          {gpuNames
-            .filter((g) => active.has(g))
-            .map((gpu) => (
-              <Line
-                key={gpu}
-                type="monotone"
-                dataKey={gpu.replace(/\s+/g, '_')}
-                name={gpu}
-                stroke={`var(--color-${gpu.replace(/\s+/g, '_')})`}
-                strokeWidth={2}
-                dot={false}
-                connectNulls
-              />
-            ))}
-        </LineChart>
-      </ChartContainer>
+      {mounted ? (
+        <ChartContainer config={config} className="h-72 w-full">
+          <LineChart data={chartData} margin={{ left: 4, right: 12, top: 8, bottom: 0 }}>
+            <CartesianGrid vertical={false} stroke="var(--line)" strokeDasharray="3 3" />
+            <XAxis
+              dataKey="date"
+              axisLine={false}
+              tickLine={false}
+              tick={{ fill: 'var(--muted-foreground)', fontSize: 11 }}
+              tickFormatter={(v: string) => v.slice(5)}
+              minTickGap={40}
+            />
+            <YAxis
+              axisLine={false}
+              tickLine={false}
+              width={44}
+              tick={{ fill: 'var(--muted-foreground)', fontSize: 11 }}
+              tickFormatter={(v) => `$${v}`}
+            />
+            <ChartTooltip content={<ChartTooltipContent labelKey="date" />} />
+            {gpuNames
+              .filter((g) => active.has(g))
+              .map((gpu) => (
+                <Line
+                  key={gpu}
+                  type="monotone"
+                  dataKey={gpu.replace(/\s+/g, '_')}
+                  name={gpu}
+                  stroke={`var(--color-${gpu.replace(/\s+/g, '_')})`}
+                  strokeWidth={2}
+                  dot={false}
+                  connectNulls
+                />
+              ))}
+          </LineChart>
+        </ChartContainer>
+      ) : (
+        <div className="h-72 w-full animate-pulse rounded-md bg-muted" />
+      )}
     </div>
   )
 }

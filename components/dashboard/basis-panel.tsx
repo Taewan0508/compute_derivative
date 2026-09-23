@@ -1,6 +1,6 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Area, AreaChart, CartesianGrid, XAxis, YAxis, ReferenceLine } from 'recharts'
 import {
   Table,
@@ -28,6 +28,11 @@ function formatPct(value: number) {
 export function BasisPanel({ curves }: { curves: GpuBasisCurve[] }) {
   const [selected, setSelected] = useState(curves[0]?.gpuName ?? '')
   const active = curves.find((c) => c.gpuName === selected) ?? curves[0]
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => {
+    setMounted(true)
+  }, [])
 
   const chartData = useMemo(() => {
     if (!active) return []
@@ -114,48 +119,52 @@ export function BasisPanel({ curves }: { curves: GpuBasisCurve[] }) {
               as of {active.observationDate}
             </span>
           </div>
-          <ChartContainer
-            config={{ basisPct: { label: 'Annualized basis', color: 'var(--chart-1)' } }}
-            className="h-56 w-full"
-          >
-            <AreaChart data={chartData} margin={{ left: 4, right: 12, top: 8, bottom: 0 }}>
-              <defs>
-                <linearGradient id="basisFill" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="0%" stopColor="var(--color-basisPct)" stopOpacity={0.35} />
-                  <stop offset="100%" stopColor="var(--color-basisPct)" stopOpacity={0} />
-                </linearGradient>
-              </defs>
-              <CartesianGrid vertical={false} stroke="var(--line)" strokeDasharray="3 3" />
-              <XAxis
-                dataKey="tenor"
-                axisLine={false}
-                tickLine={false}
-                tick={{ fill: 'var(--muted-foreground)', fontSize: 12 }}
-              />
-              <YAxis
-                axisLine={false}
-                tickLine={false}
-                width={48}
-                tick={{ fill: 'var(--muted-foreground)', fontSize: 12 }}
-                tickFormatter={(v) => `${v}%`}
-              />
-              <ReferenceLine y={0} stroke="var(--panel-border)" />
-              <ChartTooltip
-                content={
-                  <ChartTooltipContent
-                    formatter={(value) => `${Number(value).toFixed(2)}%`}
-                  />
-                }
-              />
-              <Area
-                type="monotone"
-                dataKey="basisPct"
-                stroke="var(--color-basisPct)"
-                fill="url(#basisFill)"
-                strokeWidth={2}
-              />
-            </AreaChart>
-          </ChartContainer>
+          {mounted ? (
+            <ChartContainer
+              config={{ basisPct: { label: 'Annualized basis', color: 'var(--chart-1)' } }}
+              className="h-56 w-full"
+            >
+              <AreaChart data={chartData} margin={{ left: 4, right: 12, top: 8, bottom: 0 }}>
+                <defs>
+                  <linearGradient id="basisFill" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stopColor="var(--color-basisPct)" stopOpacity={0.35} />
+                    <stop offset="100%" stopColor="var(--color-basisPct)" stopOpacity={0} />
+                  </linearGradient>
+                </defs>
+                <CartesianGrid vertical={false} stroke="var(--line)" strokeDasharray="3 3" />
+                <XAxis
+                  dataKey="tenor"
+                  axisLine={false}
+                  tickLine={false}
+                  tick={{ fill: 'var(--muted-foreground)', fontSize: 12 }}
+                />
+                <YAxis
+                  axisLine={false}
+                  tickLine={false}
+                  width={48}
+                  tick={{ fill: 'var(--muted-foreground)', fontSize: 12 }}
+                  tickFormatter={(v) => `${v}%`}
+                />
+                <ReferenceLine y={0} stroke="var(--panel-border)" />
+                <ChartTooltip
+                  content={
+                    <ChartTooltipContent
+                      formatter={(value) => `${Number(value).toFixed(2)}%`}
+                    />
+                  }
+                />
+                <Area
+                  type="monotone"
+                  dataKey="basisPct"
+                  stroke="var(--color-basisPct)"
+                  fill="url(#basisFill)"
+                  strokeWidth={2}
+                />
+              </AreaChart>
+            </ChartContainer>
+          ) : (
+            <div className="h-56 w-full animate-pulse rounded-md bg-muted" />
+          )}
           <p className="mt-3 text-xs leading-relaxed text-muted-foreground">
             Annualized basis <code className="font-mono">ln(F/S) / T</code> between the Ornn
             forward mark and same-day spot index. Positive = contango (forward priced above
