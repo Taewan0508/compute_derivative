@@ -9,6 +9,7 @@ import { KpiStrip } from '@/components/dashboard/kpi-strip'
 import { BasisPanel } from '@/components/dashboard/basis-panel'
 import { SpotHistoryChart } from '@/components/dashboard/spot-history-chart'
 import { KalshiPanel } from '@/components/dashboard/kalshi-panel'
+import { BreakevenCalculator } from '@/components/dashboard/breakeven-calculator'
 
 export default function Page() {
   const snapshots = sortByGpuOrder(getGpuSnapshots())
@@ -55,6 +56,13 @@ export default function Page() {
           Spot history
         </h2>
         <SpotHistoryChart points={spotHistory} />
+      </section>
+
+      <section className="flex flex-col gap-3">
+        <h2 className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+          Breakeven calculator
+        </h2>
+        <BreakevenCalculator snapshots={snapshots} basisCurves={basisCurves} />
       </section>
 
       <section className="flex flex-col gap-3 pb-10">
