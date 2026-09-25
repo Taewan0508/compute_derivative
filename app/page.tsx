@@ -11,6 +11,16 @@ import { SpotHistoryChart } from '@/components/dashboard/spot-history-chart'
 import { KalshiPanel } from '@/components/dashboard/kalshi-panel'
 import { BreakevenCalculator } from '@/components/dashboard/breakeven-calculator'
 
+/**
+ * Compute basis terminal page.
+ *
+ * Loads GPU snapshots, the latest basis curve, daily spot history, and active
+ * Kalshi markets on the server, then renders them as the spot strip, basis
+ * panel, spot chart, breakeven calculator, and Kalshi table. The header shows
+ * the observation date of the first basis curve, or an em dash when none exist.
+ *
+ * @returns The dashboard `<main>` element.
+ */
 export default function Page() {
   const snapshots = sortByGpuOrder(getGpuSnapshots())
   const basisCurves = sortByGpuOrder(getBasisCurve())

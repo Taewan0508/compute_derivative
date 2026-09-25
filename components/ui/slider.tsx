@@ -59,4 +59,11 @@ function Slider({
   )
 }
 
+/**
+ * Range slider used by the breakeven calculator.
+ *
+ * Controlled with `value` or uncontrolled with `defaultValue`. `min` defaults
+ * to 0 and `max` to 100; the calculator passes its own range for capex, rate,
+ * utilization, and the other inputs. `className` styles the root track.
+ */
 export { Slider }

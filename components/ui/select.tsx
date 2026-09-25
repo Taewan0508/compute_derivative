@@ -175,6 +175,15 @@ function SelectScrollDownButton({
   )
 }
 
+/**
+ * Select menu built on Radix.
+ *
+ * `Select` is the root. `SelectTrigger` opens the menu (`size` is `sm` or `default`)
+ * and `SelectValue` shows the current item. `SelectContent` is the popover
+ * (`position` defaults to `item-aligned`). `SelectGroup` and `SelectLabel` group
+ * options, `SelectItem` is one option, `SelectSeparator` divides groups, and
+ * `SelectScrollUpButton` / `SelectScrollDownButton` scroll a long list.
+ */
 export {
   Select,
   SelectContent,

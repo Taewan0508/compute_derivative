@@ -10,6 +10,13 @@ const THEMES = { light: "", dark: ".dark" } as const
 
 const INITIAL_DIMENSION = { width: 320, height: 200 } as const
 
+/**
+ * Labels, icons, and colors for each series in a chart, keyed by series name.
+ *
+ * Each entry has an optional `label` and `icon`. Color is either one `color`
+ * string or a `theme` map of light and dark CSS colors. The tooltip and legend
+ * look up a payload key in this record.
+ */
 export type ChartConfig = Record<
   string,
   {
@@ -356,6 +363,14 @@ function getPayloadConfigFromPayload(
   return configLabelKey in config ? config[configLabelKey] : config[key]
 }
 
+/**
+ * Recharts wrappers styled for the terminal theme.
+ *
+ * `ChartContainer` provides `config` to descendants and renders a responsive
+ * chart. `ChartStyle` injects the series colors as CSS variables. `ChartTooltip`
+ * and `ChartTooltipContent` render the hover card (`indicator` is `dot`, `line`,
+ * or `dashed`). `ChartLegend` and `ChartLegendContent` render the series key.
+ */
 export {
   ChartContainer,
   ChartTooltip,

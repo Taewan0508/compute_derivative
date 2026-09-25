@@ -34,6 +34,20 @@ function pct(value: number, digits = 1) {
   return `${value.toFixed(digits)}%`
 }
 
+/**
+ * Interactive per-GPU ownership breakeven model.
+ *
+ * Seeds capex and TDP from {@link GPU_DEFAULTS} when a chip is selected, and
+ * seeds the price path from that GPU's spot snapshot and Ornn basis curve.
+ * Financing presets overwrite the rate. The chart and table come from
+ * {@link computeBreakevenSeries}: yearly net margin, breakeven utilization,
+ * and the price that breaks even at the assumed utilization.
+ *
+ * @param props - Component props.
+ * @param props.snapshots - Latest spot, vol, and utilization per GPU. GPUs without a snapshot are omitted.
+ * @param props.basisCurves - Latest forward curve per GPU, used when the price path is `curve`.
+ * @returns The calculator controls, margin chart, and yearly table.
+ */
 export function BreakevenCalculator({
   snapshots,
   basisCurves,

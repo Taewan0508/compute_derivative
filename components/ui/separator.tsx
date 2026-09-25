@@ -24,4 +24,11 @@ function Separator({
   )
 }
 
+/**
+ * Horizontal or vertical rule.
+ *
+ * `orientation` is `horizontal` by default. `decorative` is true so the rule
+ * is hidden from assistive tech; set it false when the divider separates real sections.
+ * `className` overrides thickness and color.
+ */
 export { Separator }

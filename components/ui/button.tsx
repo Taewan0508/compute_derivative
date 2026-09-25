@@ -44,4 +44,12 @@ function Button({
   )
 }
 
+/**
+ * Button used for terminal actions, plus the class map behind it.
+ *
+ * `Button` renders a `<button>`, or the child element when `asChild` is true.
+ * `variant` is `default` (accent fill), `outline`, or `ghost`. `size` is
+ * `default`, `sm`, or `icon`. Extra `className` values are merged with `cn`.
+ * `buttonVariants` returns those classes without rendering an element.
+ */
 export { Button, buttonVariants }

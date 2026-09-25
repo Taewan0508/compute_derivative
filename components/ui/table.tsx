@@ -103,6 +103,14 @@ function TableCaption({
   )
 }
 
+/**
+ * Table layout matching the terminal panels.
+ *
+ * `Table` wraps `<table>` in a horizontal scroller. `TableHeader`, `TableBody`,
+ * and `TableFooter` are the row groups. `TableRow`, `TableHead`, and `TableCell`
+ * are the row and cells. `TableCaption` is the accessible caption under the table.
+ * Each piece merges `className` onto the native element.
+ */
 export {
   Table,
   TableHeader,

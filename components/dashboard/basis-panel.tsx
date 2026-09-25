@@ -25,6 +25,17 @@ function formatPct(value: number) {
   return `${sign}${value.toFixed(1)}%`
 }
 
+/**
+ * Annualized basis table and chart for one GPU curve.
+ *
+ * GPU buttons switch `selected`. The table lists each tenor's forward price and
+ * basis percent. The chart plots basis by tenor and draws a zero line. The chart
+ * waits until after mount so Recharts measures a real container.
+ *
+ * @param props - Component props.
+ * @param props.curves - Latest curve per GPU, already sorted for display.
+ * @returns The GPU switcher, basis table, and area chart. Renders nothing useful when `curves` is empty.
+ */
 export function BasisPanel({ curves }: { curves: GpuBasisCurve[] }) {
   const [selected, setSelected] = useState(curves[0]?.gpuName ?? '')
   const active = curves.find((c) => c.gpuName === selected) ?? curves[0]

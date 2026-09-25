@@ -1,4 +1,13 @@
-// Minimal RFC 4180-ish CSV parser (handles quoted fields with embedded commas/quotes).
+/**
+ * Parses CSV text into row objects keyed by the header row.
+ *
+ * Quoted fields may contain commas. A doubled quote (`""`) inside quotes is
+ * an escaped quote. `\r` is ignored so both `\n` and `\r\n` line endings work.
+ * Blank trailing rows are dropped. A file with no data rows returns `[]`.
+ *
+ * @param text - Full CSV file contents, including the header line.
+ * @returns One object per data row. Missing cells are empty strings.
+ */
 export function parseCsv(text: string): Record<string, string>[] {
   const rows: string[][] = []
   let row: string[] = []

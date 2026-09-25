@@ -87,4 +87,12 @@ function TabsContent({
   )
 }
 
+/**
+ * Tabs built on Radix, plus the list class map.
+ *
+ * `Tabs` is the root (`orientation` defaults to `horizontal`). `TabsList` is the
+ * tab strip; its `variant` is `default` (muted pill) or `line`. `tabsListVariants`
+ * is that class map. `TabsTrigger` is one tab and `TabsContent` is the panel shown
+ * when that tab is selected.
+ */
 export { Tabs, TabsList, TabsTrigger, TabsContent, tabsListVariants }

@@ -16,6 +16,16 @@ const CHART_COLORS = [
   'var(--chart-6)',
 ]
 
+/**
+ * Multi-series line chart of daily Ornn GPU spot prices.
+ *
+ * One line per GPU, colored in {@link GPU_ORDER}. Toggling a chip hides that
+ * series. The chart waits until after mount so Recharts measures a real container.
+ *
+ * @param props - Component props.
+ * @param props.points - Daily spot prints. Dates and GPU names are derived from these rows.
+ * @returns Toggle buttons and the line chart.
+ */
 export function SpotHistoryChart({ points }: { points: SpotPoint[] }) {
   const gpuNames = useMemo(
     () =>

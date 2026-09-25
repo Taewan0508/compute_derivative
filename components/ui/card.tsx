@@ -80,6 +80,13 @@ function CardFooter({ className, ...props }: React.ComponentProps<"div">) {
   )
 }
 
+/**
+ * Bordered panel pieces. Each forwards a `div` and merges `className` with `cn`.
+ *
+ * `Card` is the outer shell. `CardHeader`, `CardTitle`, and `CardDescription`
+ * stack in the header. `CardAction` sits in the header's action slot.
+ * `CardContent` is the body and `CardFooter` is the bottom row.
+ */
 export {
   Card,
   CardHeader,

@@ -5,6 +5,16 @@ function formatUsd(value: number) {
   return `$${value.toFixed(2)}`
 }
 
+/**
+ * Spot snapshot strip, one card per GPU.
+ *
+ * Each card shows the latest spot in dollars per hour, 30-day volatility when
+ * present, and utilization as a percent. Utilization above 70% uses the accent color.
+ *
+ * @param props - Component props.
+ * @param props.snapshots - Latest snapshot per GPU. Rendered in the given order.
+ * @returns A grid of GPU cards, or an empty grid when `snapshots` is empty.
+ */
 export function KpiStrip({ snapshots }: { snapshots: GpuSnapshot[] }) {
   return (
     <div className="grid grid-cols-2 gap-px overflow-hidden rounded-lg border border-panel-border bg-panel-border sm:grid-cols-3 lg:grid-cols-6">

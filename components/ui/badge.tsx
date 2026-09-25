@@ -44,4 +44,11 @@ function Badge({
   )
 }
 
+/**
+ * Small status label, plus the class map behind it.
+ *
+ * `Badge` renders a `<span>`, or the child element when `asChild` is true.
+ * `variant` selects the color treatment from `badgeVariants`. Pass `className`
+ * to override padding or color; later utilities win.
+ */
 export { Badge, badgeVariants }
