@@ -1,4 +1,8 @@
-# compute_derivative
+# Breakeven calculator 
+
+Constructing breakeven calculator for data centers and AI enterprises by implementing sopt and future prices of compute and other fundamnetals. 
+
+## compute_derivative
 
 Collecting data on GPU compute markets and their underlying index.
 
